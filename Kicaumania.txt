@@ -190,33 +190,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="Nasional",Indosiar
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
-https://aspaltvpasti.top/11111/205.mpd
-http://103.148.44.38:8000/play/a05c/index.m3u8
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-http://202.169.224.202:8800/udp/239.4.4.2:1234
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" group-title="Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",Indosiar
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/19354.drm
-https://maling.pl/19354.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" group-title="Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://aspaltvpasti.top/11111/205.mpd
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=205
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="Nasional",Indosiar
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
@@ -1181,29 +1154,37 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 
 =====
 
-> Bloomberg International
+> Bloomberg Television
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Bloomberg.id" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" group-title="News",Bloomberg International
+#EXTINF:-1 tvg-id="Bloomberg.id" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" group-title="News",Bloomberg Television
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" group-title="News",Bloomberg International
+#EXTINF:-1 tvg-chno="15" tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg TV" tvg-logo="https://i.imgur.com/R7FCaB5.png" group-title="News",Bloomberg Television
 https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
 http://41.205.93.154/BLOOMBERG/index.m3u8
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="News" tvg-logo="https://i.imgur.com/R7FCaB5.png",Bloomberg International
+#EXTINF:-1 tvg-id="bloomberg" group-title="News" tvg-logo="https://i.imgur.com/R7FCaB5.png",Bloomberg Television
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R7FCaB5.png" group-title="News",Bloomberg International
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e0d67e9e2641468d9daf3182c25bd40c:84663ccbdeba441f88c63d8573269fa1
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/R7FCaB5.png",Bloomberg Television
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/R7FCaB5.png",Bloomberg Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/R7FCaB5.png",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/aus.m3u8
 
 =====
 
@@ -1436,21 +1417,23 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 > Nickelodeon Asia
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
+#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
+#EXTINF:-1 tvg-url="mmm" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids" tvg-id="Nickelodeon",Nickelodeon Asia
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 =====
 
 > Nick Jr. Asia
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-#EXTINF:-1 tvg-id="Nick.Junior.id" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mediampd/NickJr.mpd
+#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. Asia
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
 
 =====
 
