@@ -1,18 +1,10 @@
-#EXTM3U
+Anyum Play
 
 <== Beginning of Playlist ==>
 
-#EXTM3U billed-msg="For personal use only, created by Andreas Maker, version 1.0"
-
-<== EPG ==>
-
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia3.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia4.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml.gz,https://www.open-epg.com/files/indonesia3.xml.gz,https://www.open-epg.com/files/indonesia4.xml.gz" billed-msg="For personal use only, created by Andreas Maker, version 1.1"
 
 <== National ==>
-
-#EXTM3U
 
 > TVRI
 
@@ -442,8 +434,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 <== Daerah ==>
 
-#EXTM3U
-
 > JTV (fka Jawa Timur TV/Jatim TV)
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -502,8 +492,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index
 http://103.58.160.157:8278/720-BALITV/playlist.m3u8
 
 <== Entertainment ===>
-
-#EXTM3U
 
 > Vision Prime
 
@@ -770,6 +758,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 =====
 
 > Aniplus
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
@@ -851,19 +840,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 =====
 
-> Food & Travel
+> Food Travel
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="FOOD.TRAVEL.id" tvg-name="Food Travel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foodtr.png" group-title="Entertainment",Food & Travel
+#EXTINF:-1 tvg-id="FOOD.TRAVEL.id" tvg-name="Food Travel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foodtr.png" group-title="Entertainment",Food Travel
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 <== News ==>
-
-#EXTM3U
 
 > Astro Awani
 
@@ -1254,8 +1241,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 <== Kids ==>
 
-#EXTM3U
-
 > Horee!
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1492,8 +1477,6 @@ https://fta3-cdn-flr.visionplus.id/out/v1/8554b3cb938e44038093df2d65080932/index
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 <== Movies ==>
-
-#EXTM3U
 
 > Indonesian Movie Channel
 
@@ -1984,8 +1967,6 @@ http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
 
 <== Sports ==>
 
-#EXTM3U
-
 > TVRI Sport
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2276,7 +2257,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 > beIN Sports Australia 1
 
-#EXTINF:-1 group-title="Sports" tvg-id="beINSports1.au" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports Australia 1
+#EXTINF:-1 group-title="Sports" tvg-id="B01.au" tvg-name="beIN Sports 1 Australia" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN Sports Australia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2288,7 +2269,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/
 
 > beIN Sports Australia 2
 
-#EXTINF:-1 group-title="Sports" tvg-id="beINSports2.au" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports Australia 2
+#EXTINF:-1 group-title="Sports" tvg-id="B02.au" tvg-name="beIN Sports 2 Australia" tvg-logo="https://i.imgur.com/vUJZSvs.png",beIN Sports Australia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2300,7 +2281,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 
 > beIN Sports Australia 3
 
-#EXTINF:-1 group-title="Sports" tvg-id="beINSports3.au" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports Australia 3
+#EXTINF:-1 group-title="Sports" tvg-id="B03.au" tvg-name="beIN Sports 3 Australia" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN Sports Australia 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2849,8 +2830,6 @@ https://atemeshield1-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGo
 
 <== Religion ==>
 
-#EXTM3U
-
 > Muslim TV (fka MNC Muslim)
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2907,15 +2886,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelH
 
 > U Channel
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="UChannel.id" tvg-name="" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="Religion",U Channel
-https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/uchannel-avc1_2500000=7-3277707030000000.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
+#EXTINF:-1 tvg-id="U Channel" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="Religion",U Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 
 <== Music ==>
-
-#EXTM3U
 
 > Music TV
 
@@ -2990,8 +2965,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/264761
 
 <== Knowledge ==>
-
-#EXTM3U
 
 > KBS World
 
