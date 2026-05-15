@@ -3205,11 +3205,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-ARIRANG/playlist.m3u8
 
-<== End of Live TV ==>
+# <== End of Live TV ==>
 
-<== Beginning of Media Library ==>
+# <== Beginning of Media Library ==>
 
-<== HBO Max ==>
+# <== HBO Max ==>
 
 #EXTINF:-1 type="vod" tvg-logo="https://images.cdn.prd.api.discomax.com/qvpLC/NgY36zYQxW2LOeEvQ.jpeg" group-title="HBO MAX", 976-Jurassic World Rebirth
 #KODIPROP:inputstream.adaptive.license_type=widevine
