@@ -1,8 +1,8 @@
 # Anyum Play
 A playlist that can be used for watching television shows through supported applications. It is recommended to use the OTT Navigator app to get the best viewing experience.
 
-> Disclaimer!
-> Use this playlist only for personal, non-commercial use. Selling this playlist is **prohibited**. All channels on this playlist are sourced from other playlists that are available open source. Channels may not work at any time. For a safer experience, please subscribe to the broadcast provider on your favorite streaming service.
+## **Disclaimer!**
+ Use this playlist only for personal, non-commercial use. **SELLING THIS PLAYLIST IS PROHIBITED**. All channels on this playlist are sourced from other playlists that are available open source. Channels may not work at any time. For a safer experience, please subscribe to the broadcast provider on your favorite streaming service.
 
 ## How to watch?
 1. Download OTT Navigator [here](https://modyolo.com/ott-navigator-iptv.html) or [here](https://play.google.com/store/apps/details?id=appnovatica.stbp)
@@ -13,12 +13,13 @@ A playlist that can be used for watching television shows through supported appl
 6. After completed, you can start watching TV by selecting "Live stream", select a category, and double tap the channel to start watching.
 
 ## Monitor TV show schedule
-> Note
 > Currently, the schedules for some TV shows are unavailable or not displaying correctly on most channels. This is being gradually fixed.
 
 1. Go to **Settings** → **EPG teleguide**.
 2. Scroll down to **Map channel to EPG (provider)**, and choose **tvg-id**.
 3. Now, scroll back up and then tap **Reload EPG Teleguide**.
+
+You can see the source of the Teleguide EPG at (this link)[https://github.com/makerandreas/AnyumPlay/blob/main/EPG.md].
 
 ## Have some issues?
 Just drop your questions and/or issues on the "Issues" tab on this GitHub repository.
