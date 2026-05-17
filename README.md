@@ -19,7 +19,7 @@ A playlist that can be used for watching television shows through supported appl
 2. Scroll down to **Map channel to EPG (provider)**, and choose **tvg-id**.
 3. Now, scroll back up and then tap **Reload EPG Teleguide**.
 
-You can see the source of the Teleguide EPG at (this link)[https://github.com/makerandreas/AnyumPlay/blob/main/EPG.md].
+You can see the source of the Teleguide EPG at [this link](https://github.com/makerandreas/AnyumPlay/blob/main/EPG.md).
 
 ## Have some issues?
 Just drop your questions and/or issues on the "Issues" tab on this GitHub repository.
