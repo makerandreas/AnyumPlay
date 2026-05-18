@@ -1,8 +1,9 @@
 # Open EPG Database
 Here you can see all the EPGs used in the playlist along with their URLs.
-All links are sourced from [Open EPG](https://www.open-epg.com/app/index.php)
+All links are sourced from [Open EPG](https://www.open-epg.com/app/index.php) website.
 
 ## Australia
+
 > [Link](https://www.open-epg.com/files/australia.xml.gz)
 
 ```
@@ -822,6 +823,1315 @@ In total this list contains: 439 channels
 
 ---
 
+## France
+
+> [Link](https://www.open-epg.com/files/france1.xml.gz)
+
+```
+01TV.fr;01TV.fr
+13eme RUE.fr;13eme RUE.fr
+20 minutes TV.fr;20 minutes TV.fr
+3Sat.fr;3Sat.fr
+6ter.fr;6ter.fr
+8 Mont-Blanc.fr;8 Mont-Blanc.fr
+A+ International France.fr;A+ International France.fr
+AB 1.fr;AB 1.fr
+AB 3.fr;AB 3.fr
+ABXPLORE.fr;ABXPLORE.fr
+Action.fr;Action.fr
+Africa 24.fr;Africa 24.fr
+Al Jazeera English.fr;Al Jazeera English.fr
+Animaux.fr;Animaux.fr
+ARD Alpha.fr;ARD Alpha.fr
+Arte.fr;Arte.fr
+Astrocenter TV HD.fr;Astrocenter TV HD.fr
+Automoto.fr;Automoto.fr
+B.One.fr;B.One.fr
+Baby TV.fr;Baby TV.fr
+BBC 1.fr;BBC 1.fr
+BBC 2.fr;BBC 2.fr
+BBC World News.fr;BBC World News.fr
+BBC4.fr;BBC4.fr
+BBlack.fr;BBlack.fr
+BE 1.fr;BE 1.fr
+Be Ciné.fr;Be Ciné.fr
+Be Séries.fr;Be Séries.fr
+beIN SPORTS 1.fr;beIN SPORTS 1.fr
+beIN SPORTS 2.fr;beIN SPORTS 2.fr
+beIN SPORTS 3.fr;beIN SPORTS 3.fr
+beIN SPORTS MAX 10.fr;beIN SPORTS MAX 10.fr
+beIN SPORTS MAX 4.fr;beIN SPORTS MAX 4.fr
+beIN SPORTS MAX 5.fr;beIN SPORTS MAX 5.fr
+beIN SPORTS MAX 6.fr;beIN SPORTS MAX 6.fr
+beIN SPORTS MAX 7.fr;beIN SPORTS MAX 7.fr
+beIN SPORTS MAX 8.fr;beIN SPORTS MAX 8.fr
+beIN SPORTS MAX 9.fr;beIN SPORTS MAX 9.fr
+BET.fr;BET.fr
+BFM Alsace.fr;BFM Alsace.fr
+BFM Business.fr;BFM Business.fr
+BFM Cote dAzur.fr;BFM Cote dAzur.fr
+BFM DICI Alpes du Sud.fr;BFM DICI Alpes du Sud.fr
+BFM DICI Haute-Provence.fr;BFM DICI Haute-Provence.fr
+BFM Grand Lille.fr;BFM Grand Lille.fr
+BFM Grand Littoral.fr;BFM Grand Littoral.fr
+BFM Lyon Métropole.fr;BFM Lyon Métropole.fr
+BFM Marseille.fr;BFM Marseille.fr
+BFM Var.fr;BFM Var.fr
+BFMTV.fr;BFMTV.fr
+Bloomberg.fr;Bloomberg.fr
+Boomerang.fr;Boomerang.fr
+BR Fernsehen.fr;BR Fernsehen.fr
+Canal 32.fr;Canal 32.fr
+Canal J.fr;Canal J.fr
+Canal partagé TNT Ile-de-France.fr;Canal partagé TNT Ile-de-France.fr
+Canal Z.fr;Canal Z.fr
+Canal+ Box Office.fr;Canal+ Box Office.fr
+Canal+ Cinéma.fr;Canal+ Cinéma.fr
+Canal+ Docs.fr;Canal+ Docs.fr
+Canal+ Foot.fr;Canal+ Foot.fr
+Canal+ Grand Ecran.fr;Canal+ Grand Ecran.fr
+Canal+ KIDS.fr;Canal+ KIDS.fr
+Canal+ Ligue 1.fr;Canal+ Ligue 1.fr
+Canal+ Live 1.fr;Canal+ Live 1.fr
+Canal+ Live 2.fr;Canal+ Live 2.fr
+Canal+ Live 3.fr;Canal+ Live 3.fr
+Canal+ Premier League.fr;Canal+ Premier League.fr
+Canal+ Sport 360.fr;Canal+ Sport 360.fr
+Canal+ Sport.fr;Canal+ Sport.fr
+Canal+.fr;Canal+.fr
+Canvas.fr;Canvas.fr
+Cartoon Network.fr;Cartoon Network.fr
+Cartoonito.fr;Cartoonito.fr
+Chasse et pêche.fr;Chasse et pêche.fr
+Ciné+ Classic.fr;Ciné+ Classic.fr
+Ciné+ Club.fr;Ciné+ Club.fr
+Ciné+ Emotion.fr;Ciné+ Emotion.fr
+Ciné+ Famiz.fr;Ciné+ Famiz.fr
+Ciné+ Frisson.fr;Ciné+ Frisson.fr
+Ciné+ Premier.fr;Ciné+ Premier.fr
+Club RTL.fr;Club RTL.fr
+CNEWS.fr;CNEWS.fr
+CNN.fr;CNN.fr
+Comédie+.fr;Comédie+.fr
+Comedy Central.fr;Comedy Central.fr
+Crime District.fr;Crime District.fr
+CSTAR Hits France.fr;CSTAR Hits France.fr
+CSTAR.fr;CSTAR.fr
+Das Erste.fr;Das Erste.fr
+Demain TV.fr;Demain TV.fr
+Discovery Channel.fr;Discovery Channel.fr
+Discovery Investigation.fr;Discovery Investigation.fr
+Disney Channel +1.fr;Disney Channel +1.fr
+Disney Channel Wallonia.fr;Disney Channel Wallonia.fr
+Disney Channel.fr;Disney Channel.fr
+Disney Junior.fr;Disney Junior.fr
+Disney+.fr;Disney+.fr
+Dorcel TV.fr;Dorcel TV.fr
+Dorcel XXX.fr;Dorcel XXX.fr
+E !.fr;E !.fr
+E4.fr;E4.fr
+één.fr;één.fr
+Equidia.fr;Equidia.fr
+Eurochannel.fr;Eurochannel.fr
+Euronews.fr;Euronews.fr
+Eurosport 1.fr;Eurosport 1.fr
+Eurosport 2.fr;Eurosport 2.fr
+Eurosport 360 1.fr;Eurosport 360 1.fr
+Eurosport 360 2.fr;Eurosport 360 2.fr
+Eurosport 360 3.fr;Eurosport 360 3.fr
+Eurosport 360 4.fr;Eurosport 360 4.fr
+Eurosport 360 5.fr;Eurosport 360 5.fr
+Eurosport 360 6.fr;Eurosport 360 6.fr
+Eurosport 360 7.fr;Eurosport 360 7.fr
+Eurosport 360 8.fr;Eurosport 360 8.fr
+Fashion TV.fr;Fashion TV.fr
+France 2.fr;France 2.fr
+France 24.fr;France 24.fr
+France 3 Alpes.fr;France 3 Alpes.fr
+France 3 Alsace.fr;France 3 Alsace.fr
+France 3 Aquitaine.fr;France 3 Aquitaine.fr
+France 3 Auvergne.fr;France 3 Auvergne.fr
+France 3 Basse-Normandie.fr;France 3 Basse-Normandie.fr
+France 3 Bourgogne.fr;France 3 Bourgogne.fr
+France 3 Bretagne.fr;France 3 Bretagne.fr
+France 3 Centre-Val de Loire.fr;France 3 Centre-Val de Loire.fr
+France 3 Champagne-Ardennes.fr;France 3 Champagne-Ardennes.fr
+France 3 Corse Via Stella.fr;France 3 Corse Via Stella.fr
+France 3 Côte d'Azur.fr;France 3 Côte d'Azur.fr
+France 3 Franche-Comté.fr;France 3 Franche-Comté.fr
+France 3 Haute-Normandie.fr;France 3 Haute-Normandie.fr
+France 3 Languedoc-Roussillon.fr;France 3 Languedoc-Roussillon.fr
+France 3 Limousin.fr;France 3 Limousin.fr
+France 3 Lorraine.fr;France 3 Lorraine.fr
+France 3 Midi-Pyrénées.fr;France 3 Midi-Pyrénées.fr
+France 3 Nord Pas-de-Calais.fr;France 3 Nord Pas-de-Calais.fr
+France 3 Paris Ile-de-France.fr;France 3 Paris Ile-de-France.fr
+France 3 Pays de la Loire.fr;France 3 Pays de la Loire.fr
+France 3 Picardie.fr;France 3 Picardie.fr
+France 3 Poitou-Charentes.fr;France 3 Poitou-Charentes.fr
+France 3 Provence-Alpes.fr;France 3 Provence-Alpes.fr
+France 3 Rhône-Alpes.fr;France 3 Rhône-Alpes.fr
+France 3.fr;France 3.fr
+France 4.fr;France 4.fr
+France 5.fr;France 5.fr
+Franceinfo.fr;Franceinfo.fr
+Game One +1.fr;Game One +1.fr
+Game One.fr;Game One.fr
+Ginx.fr;Ginx.fr
+Golf+.fr;Golf+.fr
+Gong Max.fr;Gong Max.fr
+Gong.fr;Gong.fr
+Gulli.fr;Gulli.fr
+HBO.fr;HBO.fr
+Histoire TV.fr;Histoire TV.fr
+HR Fernsehen.fr;HR Fernsehen.fr
+I24news.fr;I24news.fr
+Infosport+.fr;Infosport+.fr
+J-One.fr;J-One.fr
+Ketnet.fr;Ketnet.fr
+KIKA.fr;KIKA.fr
+KTO.fr;KTO.fr
+L'Equipe.fr;L'Equipe.fr
+La Chaîne Météo.fr;La Chaîne Météo.fr
+La Chaîne normande.fr;La Chaîne normande.fr
+La Chaîne parlementaire.fr;La Chaîne parlementaire.fr
+La Trois.fr;La Trois.fr
+La Une.fr;La Une.fr
+LCI - La Chaîne Info.fr;LCI - La Chaîne Info.fr
+LCP 100%.fr;LCP 100%.fr
+Lifetime.fr;Lifetime.fr
+LM TV Sarthe.fr;LM TV Sarthe.fr
+Lucky Jack.fr;Lucky Jack.fr
+Luxe TV.fr;Luxe TV.fr
+M6 Music.fr;M6 Music.fr
+M6.fr;M6.fr
+Mangas.fr;Mangas.fr
+Maritima TV.fr;Maritima TV.fr
+MCM Top.fr;MCM Top.fr
+MCM.fr;MCM.fr
+MDR Fernsehen.fr;MDR Fernsehen.fr
+Melody.fr;Melody.fr
+Men's UP.fr;Men's UP.fr
+Mezzo Live HD.fr;Mezzo Live HD.fr
+Mezzo.fr;Mezzo.fr
+MGG TV.fr;MGG TV.fr
+Mosaïk Cristal.fr;Mosaïk Cristal.fr
+Moselle TV.fr;Moselle TV.fr
+MTV Hits (France).fr;MTV Hits (France).fr
+MTV Rocks.fr;MTV Rocks.fr
+MTV.fr;MTV.fr
+Museum TV.fr;Museum TV.fr
+MyZen.tv.fr;MyZen.tv.fr
+Nat Geo Wild.fr;Nat Geo Wild.fr
+National Geographic.fr;National Geographic.fr
+Nautical Channel.fr;Nautical Channel.fr
+NDR FERNSEHEN.fr;NDR FERNSEHEN.fr
+Nickelodéon +1.fr;Nickelodéon +1.fr
+Nickelodeon Junior.fr;Nickelodeon Junior.fr
+Nickelodéon Teen.fr;Nickelodéon Teen.fr
+Nickelodéon Wallonia.fr;Nickelodéon Wallonia.fr
+Nickelodéon.fr;Nickelodéon.fr
+NoA.fr;NoA.fr
+Nollywood TV.fr;Nollywood TV.fr
+Novelas TV.fr;Novelas TV.fr
+NOVO19.fr;NOVO19.fr
+NPO1.fr;NPO1.fr
+NPO2.fr;NPO2.fr
+NRJ Hits.fr;NRJ Hits.fr
+OLTV.fr;OLTV.fr
+Olympia TV.fr;Olympia TV.fr
+One.fr;One.fr
+Paramount Network Décalé.fr;Paramount Network Décalé.fr
+Paramount Network.fr;Paramount Network.fr
+Paris Première.fr;Paris Première.fr
+Pass Pink X.fr;Pass Pink X.fr
+Pass XXL - Dorcel.fr;Pass XXL - Dorcel.fr
+PHOENIX.fr;PHOENIX.fr
+Pink TV.fr;Pink TV.fr
+Pink X.fr;Pink X.fr
+Piwi+.fr;Piwi+.fr
+Planète+ Aventure Expérience.fr;Planète+ Aventure Expérience.fr
+Planète+ Crime Investigation.fr;Planète+ Crime Investigation.fr
+Planète+.fr;Planète+.fr
+Play5.fr;Play5.fr
+Plug RTL.fr;Plug RTL.fr
+Polar+.fr;Polar+.fr
+Pro7.fr;Pro7.fr
+ProSieben.fr;ProSieben.fr
+Proximus 11.fr;Proximus 11.fr
+Public Sénat 2424.fr;Public Sénat 2424.fr
+Rai Uno.fr;Rai Uno.fr
+RFM TV.fr;RFM TV.fr
+RMC Découverte.fr;RMC Découverte.fr
+RMC Life.fr;RMC Life.fr
+RMC Sport 1.fr;RMC Sport 1.fr
+RMC Sport 2.fr;RMC Sport 2.fr
+RMC Sport Access 1.fr;RMC Sport Access 1.fr
+RMC Sport Live 3.fr;RMC Sport Live 3.fr
+RMC Sport Live 4.fr;RMC Sport Live 4.fr
+RMC Story.fr;RMC Story.fr
+RSI LA 1.fr;RSI LA 1.fr
+RSI LA 2.fr;RSI LA 2.fr
+RT France.fr;RT France.fr
+RTL 9.fr;RTL 9.fr
+RTL Télévision.fr;RTL Télévision.fr
+RTL TVI.fr;RTL TVI.fr
+RTL ZWEI.fr;RTL ZWEI.fr
+RTPI.fr;RTPI.fr
+RTS Deux.fr;RTS Deux.fr
+RTS Un.fr;RTS Un.fr
+SAT.1.fr;SAT.1.fr
+Science & Vie TV.fr;Science & Vie TV.fr
+Seasons.fr;Seasons.fr
+serieclub.fr;serieclub.fr
+Skynews.fr;Skynews.fr
+Sport en France.fr;Sport en France.fr
+SRF 1.fr;SRF 1.fr
+SRF 2.fr;SRF 2.fr
+Stingray Classica.fr;Stingray Classica.fr
+Stingray Djazz.fr;Stingray Djazz.fr
+Stingray Festival 4K.fr;Stingray Festival 4K.fr
+Stingray i-Concerts.fr;Stingray i-Concerts.fr
+Super RTL.fr;Super RTL.fr
+SWR.fr;SWR.fr
+Syfy.fr;Syfy.fr
+T18.fr;T18.fr
+Tagesschau24.fr;Tagesschau24.fr
+TCM Cinéma.fr;TCM Cinéma.fr
+Tébéo.fr;Tébéo.fr
+TébéSud.fr;TébéSud.fr
+Télé Grenoble Isère.fr;Télé Grenoble Isère.fr
+Télénantes.fr;Télénantes.fr
+TéléToon+.fr;TéléToon+.fr
+TéléToon+1.fr;TéléToon+1.fr
+Téva.fr;Téva.fr
+TF1 Séries Films.fr;TF1 Séries Films.fr
+TF1.fr;TF1.fr
+TF1+1.fr;TF1+1.fr
+TFX.fr;TFX.fr
+TIJI.fr;TIJI.fr
+Tipik.fr;Tipik.fr
+TLC France.fr;TLC France.fr
+TMC.fr;TMC.fr
+TMC+1.fr;TMC+1.fr
+TNTV France.fr;TNTV France.fr
+Toute l'histoire.fr;Toute l'histoire.fr
+Trace Africa.fr;Trace Africa.fr
+Trace Caribbean.fr;Trace Caribbean.fr
+Trace Latina.fr;Trace Latina.fr
+TRACE Sport Stars.fr;TRACE Sport Stars.fr
+Trace Urban.fr;Trace Urban.fr
+Trek.fr;Trek.fr
+TV Tours.fr;TV Tours.fr
+TV5MONDE.fr;TV5MONDE.fr
+TV7 Bordeaux.fr;TV7 Bordeaux.fr
+TvBreizh.fr;TvBreizh.fr
+TVE.fr;TVE.fr
+TVMonaco.fr;TVMonaco.fr
+TVPI.fr;TVPI.fr
+TVR Rennes 35 Bretagne.fr;TVR Rennes 35 Bretagne.fr
+TVSUD Montpellier.fr;TVSUD Montpellier.fr
+TVSUD Nîmes.fr;TVSUD Nîmes.fr
+Ushuaïa TV.fr;Ushuaïa TV.fr
+VH1.fr;VH1.fr
+Vier.fr;Vier.fr
+Vixen TV.fr;Vixen TV.fr
+VOOsport World 1.fr;VOOsport World 1.fr
+VOOsport World 2.fr;VOOsport World 2.fr
+Vosges Télévision.fr;Vosges Télévision.fr
+VOX.fr;VOX.fr
+VTM.fr;VTM.fr
+VTM2.fr;VTM2.fr
+VTM3.fr;VTM3.fr
+VTM4.fr;VTM4.fr
+W9.fr;W9.fr
+Warner TV Next.fr;Warner TV Next.fr
+Warner TV.fr;Warner TV.fr
+WDR.fr;WDR.fr
+Weo.fr;Weo.fr
+XXL.fr;XXL.fr
+ZDF INFO.fr;ZDF INFO.fr
+ZDF NEO.fr;ZDF NEO.fr
+ZDF.fr;ZDF.fr
+```
+
+In total this list contains: 325 channels
+
+---
+
+## India
+
+> [Link](https://www.open-epg.com/files/india.xml.gz)
+
+```
+10TV.in;10 TV.in
+1stGujarat.in;1st Gujarat.in
+22Scope.in;22 Scope.in
+24HrsTV.in;24Hrs TV.in
+35MM.in;35 MM.in
+4tvNews.in;4tv News.in
+6TV.in;6TV.in
+7xMusic.in;7x Music.in
+9XJalwa.in;9X Jalwa.in
+9XJhakaas.in;9X Jhakaas.in
+9XM.in;9XM.in
+9XTashan.in;9X Tashan.in
+AadinathTV.in;Aadinath TV.in
+AajKiKhabar.in;Aaj Ki Khabar.in
+AajTak.in;Aaj Tak.in
+AajTakHD.in;Aaj Tak HD.in
+AakaashAath.in;Aakaash Aath.in
+Aastha.in;Aastha.in
+AasthaBhajan.in;Aastha Bhajan.in
+AasthaGujarati.in;Aastha Gujarati.in
+ABCAustralia.in;ABC Australia.in
+ABCNews.in;ABC News.in
+ABNAndhraJyothy.in;ABN Andhra Jyothy.in
+ABPAnanda.in;ABP Ananda.in
+ABPAsmita.in;ABP Asmita.in
+ABPMajha.in;ABP Majha.in
+ABPNews.in;ABP News.in
+ABSTARNews.in;AB STAR News.in
+ActionCinema.in;Action Cinema.in
+AdithyaTV.in;Adithya TV.in
+Alankar.in;Alankar.in
+AlJazeera.in;Al Jazeera.in
+AllTimeMovies.in;All Time Movies.in
+ALLTimeMOVIES.in;ALL Time MOVIES.in
+AmritaTV.in;Amrita TV.in
+AnaadiTV.in;Anaadi TV.in
+ANANDHAMTV.in;ANANDHAM TV.in
+AnandTV.in;Anand TV.in
+ANBNEWS.in;ANB NEWS.in
+andflix.in;andflix.in
+AndFlixHD.in;AndFlix HD.in
+AndPictures.in;And Pictures.in
+andPicturesHD.in;And Pictures HD.in
+AndPriveHD.in;And Prive HD.in
+andTV.in;andTV.in
+andtvHD.in;andtv HD.in
+AndXplorHD.in;AndXplor HD.in
+AngelTV.in;Angel TV.in
+AnimalPlanet.in;Animal Planet.in
+AnimalPlanetHD.in;Animal Planet HD.in
+AnjanTV.in;Anjan TV.in
+AnmolCinema.in;Anmol Cinema.in
+AnmolCinema2.in;Anmol Cinema 2.in
+ANNNews.in;ANN News.in
+APNNews.in;APN News.in
+AradanaTV.in;Aradana TV.in
+Argus.in;Argus.in
+Asianet..in;Asianet..in
+AsianetHD.in;Asianet HD.in
+AsianetMovies.in;Asianet Movies.in
+AsianetMoviesHD.in;Asianet Movies HD.in
+AsianetNews.in;Asianet News.in
+AsianetPlus.in;Asianet Plus.in
+AsianetSuvarnaNews.in;Asianet Suvarna News.in
+AsianNews.in;Asian News.in
+AssamTalks.in;Assam Talks.in
+AthavanTV.in;AthavanTV.in
+Atmadarshan.in;Atmadarshan.in
+Awakening.in;Awakening.in
+AyushmaanActive.in;Ayushmaan Active.in
+AyushTV.in;Ayush TV.in
+B4UBhojpuri.in;B4U Bhojpuri.in
+B4UKadak.in;B4U Kadak.in
+B4UMovies.in;B4U Movies.in
+B4UMusic.in;B4U Music.in
+BalleBalle.in;Balle Balle.in
+BanglaBhakti.in;Bangla Bhakti.in
+BansalNews.in;Bansal News.in
+BBCNews.in;BBC News.in
+BBCWorld.in;BBC World.in
+BFLIX.in;BFLIX.in
+BhakthiSiri.in;Bhakthi Siri.in
+Bhaktisagar.in;Bhaktisagar.in
+BhaktiTV.in;Bhakti TV.in
+Bharat24.in;Bharat 24.in
+BharatExpress.in;Bharat Express.in
+BharatSamachar.in;Bharat Samachar.in
+BharatTimesNews.in;Bharat Times News.in
+BHIChannel.in;BHI Channel.in
+BhojpuriCinema.in;Bhojpuri Cinema.in
+BIGMagic.in;BIG Magic.in
+BIGTVTelugu.in;BIG TV Telugu.in
+Bindass.in;Bindass.in
+BlessTV.in;Bless TV.in
+BloombergTelevision.in;Bloomberg Television.in
+BollywoodHungamaActive.in;Bollywood Hungama Active.in
+BRKNews.in;BRK News.in
+BSTV.in;BS TV.in
+BTVWORLD.in;BTV WORLD.in
+BuletinIndia.in;Buletin India.in
+BUZZ2.in;BUZZ 2.in
+BuzzSDDuplicate.in;Buzz SD Duplicate.in
+BVG.in;BVG.in
+CalcuttaNews.in;Calcutta News.in
+CalvaryTV.in;Calvary TV.in
+CartoonNetwork.in;Cartoon Network.in
+CartoonNetworkHD+.in;Cartoon Network HDPlus.in
+CBeeBies.in;CBeeBies.in
+CHANNEL36-UP/UK.in;CHANNEL 36- UP/UK.in
+ChannelNewsAsia.in;Channel News Asia.in
+ChannelWIN.in;Channel WIN.in
+ChardiklaTimeTV.in;Chardikla Time TV.in
+ChintuTV.in;Chintu TV.in
+CHITHIRAM.in;CHITHIRAM.in
+ChumbakTV.in;Chumbak TV.in
+ChuttiTV.in;Chutti TV.in
+CineManiaMarathiHD.in;CineMania Marathi HD.in
+ClassicCinemaHD.in;Classic Cinema HD.in
+CNBCAwaaz.in;CNBC Awaaz.in
+CNBCBajar.in;CNBC Bajar.in
+CNBCTV18.in;CNBC TV18.in
+CNBCTV18PrimeHD.in;CNBC TV18 Prime HD.in
+CNewsBharat.in;C News Bharat.in
+CNNInternational.in;CNN International.in
+CNNNews18..in;CNN News18..in
+Colors.in;Colors.in
+ColorsBangla.in;Colors Bangla.in
+ColorsBanglaCinema.in;Colors Bangla Cinema.in
+ColorsBanglaHD.in;Colors Bangla HD.in
+ColorsCineplex.in;Colors Cineplex.in
+ColorsCineplexBollywood.in;Colors Cineplex Bollywood.in
+ColorsCineplexHD.in;Colors Cineplex HD.in
+ColorsCineplexSuperhits.in;Colors Cineplex Superhits.in
+ColorsGujarati.in;Colors Gujarati.in
+ColorsGujaratiCinema.in;Colors Gujarati Cinema.in
+ColorsHD.in;Colors HD.in
+ColorsInfinity.in;Colors Infinity.in
+ColorsInfinityHD.in;Colors Infinity HD.in
+ColorsKannada.in;Colors Kannada.in
+ColorsKannadaCinema.in;Colors Kannada Cinema.in
+ColorsKannadaHD.in;Colors Kannada HD.in
+ColorsMarathi.in;Colors Marathi.in
+ColorsMarathiHD.in;Colors Marathi HD.in
+ColorsOriya.in;Colors Oriya.in
+ColorsRishtey.in;Colors Rishtey.in
+ColorsSUPER.in;Colors SUPER.in
+ColorsTamil.in;Colors Tamil.in
+ColorsTamilHD.in;Colors Tamil HD.in
+ComedyActive.in;Comedy Active.in
+ComedyCentral.in;Comedy Central.in
+ComedyCentralHD.in;Comedy Central HD.in
+CTVNAKDPlus.in;CTVN AKD Plus.in
+CustomerCare.in;Customer Care.in
+DaijiWorldTV.in;Daiji World TV.in
+DailyPost-PunjabHaryanaHimachal.in;Daily Post- Punjab Haryana Himachal.in
+DANewsPlus.in;DA News Plus.in
+Dangal.in;Dangal.in
+Dangal2.in;Dangal 2.in
+DDArunPrabha.in;DD Arun Prabha.in
+DDAssam.in;DD Assam.in
+DDBangla.in;DD Bangla.in
+DDBharati.in;DD Bharati.in
+DDBihar.in;DD Bihar.in
+DDChandana.in;DD Chandana.in
+DDChhattisgarh.in;DD Chhattisgarh.in
+DDGirnar.in;DD Girnar.in
+DDGOA.in;DD GOA.in
+DDGyanDarshan.in;DD Gyan Darshan.in
+DDHaryana.in;DD Haryana.in
+DDHimachal.in;DD Himachal.in
+DDIndia.in;DD India.in
+DDIndiaHD.in;DD India HD.in
+DDJharkhand.in;DD Jharkhand.in
+DDKashir.in;DD Kashir.in
+DDKisan.in;DD Kisan.in
+DDMadhyaPradesh.in;DD Madhya Pradesh.in
+DDMalayalam.in;DD Malayalam.in
+DDManipur.in;DD Manipur.in
+DDMEGHALAYA.in;DD MEGHALAYA.in
+DDMIZORAM.in;DD MIZORAM.in
+DDNAGALAND.in;DD NAGALAND.in
+DDNational.in;DD National.in
+DDNationalHD.in;DD National HD.in
+DDNews.in;DD News.in
+DDNewsHD.in;DD News HD.in
+DDNorthEast.in;DD North East.in
+DDOriya.in;DD Oriya.in
+DDPortBlair.in;DD Port Blair.in
+DDPunjabi.in;DD Punjabi.in
+DDRajasthan.in;DD Rajasthan.in
+DDSahyadri.in;DD Sahyadri.in
+DDSaptagiri.in;DD Saptagiri.in
+DDSports.in;DD Sports.in
+DDSportsHD.in;DD Sports HD.in
+DDTAMIL.in;DD TAMIL.in
+DDTripura.in;DD Tripura.in
+DDUP.in;DD UP.in
+DDUrdu.in;DD Urdu.in
+DDUttarakhand.in;DD Uttarakhand.in
+DDYadagiri.in;DD Yadagiri.in
+Deploymentchannel19.0.in;Deployment channel 19.0.in
+DharamSandesh.in;Dharam Sandesh.in
+DHARSANTV.in;DHARSAN TV.in
+DhoomMusic.in;Dhoom Music.in
+DiscoveryChannel.in;Discovery Channel.in
+DiscoveryHDWorld.in;Discovery HD World.in
+DiscoveryKids.in;Discovery Kids.in
+DiscoveryScience.in;Discovery Science.in
+DiscoveryTurbo.in;Discovery Turbo.in
+DiscoveryWorld.in;DiscoveryWorld.in
+DishBhaktiActive.in;Dish Bhakti Active.in
+DishBuzz.in;Dish Buzz.in
+DISHBUZZHD.in;DISH BUZZ HD.in
+DishCineActive.in;Dish Cine Active.in
+DishCookingActive.in;Dish Cooking Active.in
+DishFitnessActive.in;Dish Fitness Active.in
+DishKidsRhymes.in;Dish Kids Rhymes.in
+DishKidsToon.in;Dish Kids Toon.in
+DishTVEvergreenClassic.in;Dish TV Evergreen Classic.in
+Disney.in;Disney.in
+DisneyChannelHD.in;Disney Channel HD.in
+DisneyInternationalHD.in;Disney International HD.in
+DisneyJunior.in;Disney Junior.in
+Divya.in;Divya.in
+DKPNews.in;DKP News.in
+DTamil.in;D Tamil.in
+DW.in;DW.in
+DY365.in;DY365.in
+E24.in;E24.in
+EkamraBaiscope.in;Ekamra Baiscope.in
+EkamraBharatOdia.in;Ekamra Bharat Odia.in
+EkamraCynema.in;Ekamra Cynema.in
+EkamraJatra.in;Ekamra Jatra.in
+EkamraManoranjan.in;Ekamra Manoranjan.in
+EkamraMusic.in;Ekamra Music.in
+EkamraNilachakra.in;Ekamra Nilachakra.in
+EkamraOnepaschima.in;Ekamra One paschima.in
+EkamraParamatma.in;Ekamra Paramatma.in
+Ekamrasnews.in;Ekamra snews.in
+EkOnkar.in;Ek Onkar.in
+Enterr10Bangla.in;Enterr10 Bangla.in
+Enterr10Movies.in;Enterr10 Movies.in
+EPIC.in;EPIC.in
+EPICBhojpuri.in;EPIC Bhojpuri.in
+ETNOW.in;ET NOW.in
+ETNowSwadesh.in;ET Now Swadesh.in
+ETV.in;ETV.in
+ETVAbhiruchi.in;ETV Abhiruchi.in
+ETVAndhraPradesh.in;ETV Andhra Pradesh.in
+ETVBalBharat.in;ETV Bal Bharat.in
+ETVCinema.in;ETV Cinema.in
+ETVCinemaHD.in;ETV Cinema HD.in
+ETVHD.in;ETV HD.in
+ETVLife.in;ETV Life.in
+ETVPlus.in;ETV Plus.in
+ETVPlusHD.in;ETV Plus HD.in
+ETVTelangana.in;ETV Telangana.in
+ETVTelugu.in;ETV Telugu.in
+Eurosport.in;Eurosport.in
+EurosportHD.in;Eurosport HD.in
+ExpressNewsBharat.in;Express News Bharat.in
+EZMALL.in;EZ MALL.in
+FaktMarathi.in;FaktMarathi.in
+FashionTV.in;Fashion TV.in
+FatehTV.in;Fateh TV.in
+FilamchiBhojpuri.in;Filamchi Bhojpuri.in
+FirstIndiaRajasthan.in;First India Rajasthan.in
+Flowers.in;Flowers.in
+FoodFood.in;Food Food.in
+Foodxp.in;Foodxp.in
+France24.in;France 24.in
+GarvGurbani.in;Garv Gurbani.in
+GarviGujaratGujarati.in;Garvi Gujarat Gujarati.in
+GeminiComedy.in;Gemini Comedy.in
+GeminiLife.in;Gemini Life.in
+GeminiMovies.in;Gemini Movies.in
+GeminiMoviesHD.in;Gemini Movies HD.in
+GeminiMusic.in;Gemini Music.in
+GeminiTV.in;Gemini TV.in
+GeminiTVHD.in;Gemini TV HD.in
+GlobalIndia.in;Global India.in
+GodTV.in;God TV.in
+Goldmines.in;Goldmines.in
+GoldminesBollywood.in;Goldmines Bollywood.in
+GoldminesMovies.in;Goldmines Movies.in
+Goodness.in;Goodness.in
+GoodNewsToday.in;Good News Today.in
+GOODTiMES.in;GOOD TiMES.in
+GreenChilliesTV.in;Green Chillies TV.in
+Gubbare.in;Gubbare.in
+GujaratFirst.in;Gujarat First.in
+GujaratSamacharTV.in;Gujarat Samachar TV.in
+GulistanNews.in;Gulistan News.in
+Gyandarshan.in;Gyandarshan.in
+HareKrsna.in;Hare Krsna.in
+HarKhabar.in;Har Khabar.in
+HarvestTV24x7.in;Harvest TV 24x7.in
+HaryanaBeats.in;Haryana Beats.in
+HaryanaBuzz.in;Haryana Buzz.in
+HIFFMovies.in;HIFF Movies.in
+HindiKhabar.in;Hindi Khabar.in
+HinduDharmam.in;Hindu Dharmam.in
+HistoryTV18.in;History TV18.in
+HistoryTV18HD.in;History TV18 HD.in
+HitsActive.in;Hits Active.in
+HMTV.in;HM TV.in
+HNNNews.in;HNN News.in
+HollywoodIndieActive.in;Hollywood Indie Active.in
+HollywoodTadkaHD.in;Hollywood Tadka HD.in
+HornbillTV.in;Hornbill TV.in
+Hungama.in;Hungama.in
+IBC24.in;IBC 24.in
+In24LiveNews.in;In24 Live News.in
+In24News.in;In24 News.in
+India24x7.in;India 24x7.in
+IndiaDaily24x7.in;India Daily 24x7.in
+IndiaDailyLive.in;India Daily Live.in
+IndiaNews.in;India News.in
+IndiaNewsGujarat.in;India News Gujarat.in
+IndiaNewsHaryana.in;India News Haryana.in
+IndiaNewsPunjab.in;India News Punjab.in
+IndiaNewsRajasthan.in;India News Rajasthan.in
+IndiaNewsUPUK.in;India News UP UK.in
+IndianNews.in;Indian News.in
+INDIATODAY.in;INDIA TODAY.in
+IndiaTV.in;India TV.in
+IndiaTVSpeedNewsHD.in;India TV Speed News HD.in
+IndiaVoice.in;India Voice.in
+Indradhanu.in;Indradhanu.in
+InGoa24x7.in;In Goa 24x7.in
+INH24X7.in;INH 24X7.in
+InvestigationDiscovery.in;Investigation Discovery.in
+InvestigationDiscoveryHD.in;Investigation Discovery HD.in
+Isaiaruvi.in;Isaiaruvi.in
+Ishara.in;Ishara.in
+IshwarTV.in;Ishwar TV.in
+JaihindTV.in;Jaihind TV.in
+JaiMaharashtra.in;Jai Maharashtra.in
+JalshaMovies.in;Jalsha Movies.in
+JalshaMoviesHD.in;Jalsha Movies HD.in
+JanamTV.in;Janam TV.in
+Jansetu.in;Jansetu.in
+JantantraTV.in;Jantantra TV.in
+JantaTV.in;Janta TV.in
+JanTV.in;Jan TV.in
+JayaMax.in;Jaya Max.in
+JayaPlus.in;Jaya Plus.in
+JayaTV.in;Jaya TV.in
+JayaTVHD.in;Jaya TV HD.in
+JayJagannath.in;Jay Jagannath.in
+JeevanTV.in;Jeevan TV.in
+JeewanBhakti.in;Jeewan Bhakti.in
+JinvaniChannel.in;Jinvani Channel.in
+JMovies.in;J Movies.in
+Jonack.in;Jonack.in
+JothiTV.in;Jothi TV.in
+KairaliNews.in;Kairali News.in
+KairaliTV.in;Kairali TV.in
+KalaignarTV.in;Kalaignar TV.in
+KalingaBharat.in;Kalinga Bharat.in
+KalingaTV.in;Kalinga TV.in
+KanakNews.in;Kanak News.in
+KannadaNaaptol.in;Kannada Naaptol.in
+KappaTV.in;Kappa TV.in
+KashishNews.in;Kashish News.in
+KashiVishwanathTemple,Varanasi.in;Kashi Vishwanath Temple, Varanasi.in
+KaumudyTV.in;Kaumudy TV.in
+KBCNews.in;KBC News.in
+KBSWorld.in;KBS World.in
+KhabarainAbhiTak.in;Khabarain Abhi Tak.in
+KhabarFast.in;Khabar Fast.in
+KhushbooBangla.in;Khushboo Bangla.in
+KochuTV.in;Kochu TV.in
+KolkataTV.in;Kolkata TV.in
+KOREANDRAMAACTIVE.in;KOREAN DRAMA ACTIVE.in
+KTV.in;KTV.in
+KTVHD.in;KTV HD.in
+KushiTV.in;Kushi TV.in
+LivePatnaSahibPatna.in;Live Patna Sahib Patna.in
+LivePunjabi.in;Live Punjabi.in
+LiveSriNagaSaiMandirCoimbatore.in;Live Sri Naga Sai Mandir Coimbatore.in
+LiveTimes.in;Live Times.in
+LivingIndiaNews.in;Living India News.in
+LOKSHAHIMARATHI.in;LOKSHAHI MARATHI.in
+MadhaTV.in;Madha TV.in
+MahaaMax.in;Mahaa Max.in
+MAHAANEWS.in;MAHAA NEWS.in
+MahakaleshwarTemple,Ujjain.in;Mahakaleshwar Temple, Ujjain.in
+Maiboli.in;Maiboli.in
+MakkalTV.in;Makkal TV.in
+MalaiMurasuSeithigal.in;MalaiMurasu Seithigal.in
+MalamaalReward.in;Malamaal Reward.in
+ManoramaNews.in;Manorama News.in
+ManoranjanGrand.in;Manoranjan Grand.in
+ManoranjanMovies.in;Manoranjan Movies.in
+ManoranjanPrime.in;Manoranjan Prime.in
+ManoranjanTV.in;Manoranjan TV.in
+Mastiii.in;Mastiii.in
+MathrubhumiNews.in;Mathrubhumi News.in
+MazhavilManorama.in;Mazhavil Manorama.in
+MazhavilManoramaHD.in;Mazhavil Manorama HD.in
+MBCTV.in;MBC TV.in
+MEDIA9.in;MEDIA 9.in
+MediaOne.in;Media One.in
+Mega24.in;Mega 24.in
+MegaMusiq.in;Mega Musiq.in
+MegaTV.in;Mega TV.in
+MH1.in;MH1.in
+MHOneDilSe.in;MH One Dil Se.in
+MHOneNews.in;MH One News.in
+MHOneShraddha.in;MH One Shraddha.in
+MiniplexHD.in;MiniplexHD.in
+MirrorNow.in;Mirror Now.in
+MN+.in;MNPlus.in
+MN+HD.in;MNPlus HD.in
+MNX.in;MNX.in
+MNXHD.in;MNX HD.in
+MoviePlus.in;Movie Plus.in
+MoviesActive.in;Movies Active.in
+MoviesNow.in;Movies Now.in
+MoviesNowHD.in;Movies Now HD.in
+MTV.in;MTV.in
+MTVBeats.in;MTV Beats.in
+MTVBeatsHD.in;MTV Beats HD.in
+MTVHD.in;MTV HD.in
+MurasuTV.in;Murasu TV.in
+MusicIndia.in;Music India.in
+NakshatraDigital.in;Nakshatra Digital.in
+NambikkaiTV.in;Nambikkai TV.in
+NammaTV.in;Namma TV.in
+NandighoshaTV.in;Nandighosha TV.in
+NatGeoWild.in;Nat Geo Wild.in
+NatGeoWildHD.in;Nat Geo Wild HD.in
+NationalGeographic.in;National Geographic.in
+NationalGeographicHD.in;National Geographic HD.in
+NationalNewsLive.in;National News Live.in
+NationalToday24x7.in;National Today 24x7.in
+NAVSARJANSANSKRUTIGUJARATI.in;NAVSARJAN SANSKRUTI GUJARATI.in
+NavTejTV.in;Nav Tej TV.in
+NaxatraNews.in;Naxatra News.in
+NAZARA.in;NAZARA.in
+NBNews.in;NB News.in
+ND24-Newsdaily.in;ND24-Newsdaily.in
+NDTV24x7.in;NDTV 24x7.in
+NDTVGoodTimes.in;NDTV Good Times.in
+NDTVIndia.in;NDTV India.in
+NDTVMARATHI.in;NDTV MARATHI.in
+NDTVMPCG.in;NDTV MPCG.in
+NDTVProfitPrime.in;NDTV Profit Prime.in
+NDTVRajasthan.in;NDTV Rajasthan.in
+NENEWS.in;NE NEWS.in
+Nepal1.in;Nepal 1.in
+Network10.in;Network 10.in
+News11Bharat.in;News11 Bharat.in
+News18AssamNorthEast.in;News18 Assam North East.in
+News18Bangla.in;News18 Bangla.in
+News18BiharJharkhand.in;News18 Bihar Jharkhand.in
+News18Gujarati.in;News18 Gujarati.in
+News18India.in;News18 India.in
+News18JammuKashmirLadakhHimachalHaryana.in;News18 Jammu Kashmir Ladakh Himachal Haryana.in
+News18Kannada.in;News18 Kannada.in
+News18Kerala.in;News18 Kerala.in
+News18Lokmat.in;News18 Lokmat.in
+News18MadhyaPradeshChhattisgarh.in;News18 Madhya Pradesh Chhattisgarh.in
+News18Odia.in;News18 Odia.in
+NEWS18PUNJAB.in;NEWS18 PUNJAB.in
+NEWS18RAJASTHAN.in;NEWS18 RAJASTHAN.in
+News18TamilNadu.in;News18 Tamil Nadu.in
+News18UttarPradeshUttarakhand.in;News18 Uttar Pradesh Uttarakhand.in
+News1India.in;News 1 India.in
+News1stKannada.in;News 1st Kannada.in
+News21.in;News 21.in
+News24.in;News 24.in
+News24MadhyapradeshChattisgarh.in;News 24 Madhyapradesh Chattisgarh.in
+News7.in;News7.in
+News8odia.in;News 8 odia.in
+News9.in;News 9.in
+NewsCapital.in;News Capital.in
+NewsIndia24x7.in;News India 24x7.in
+NewsJ.in;News J.in
+NewsLive.in;News Live.in
+NewsLiveBangla.in;News Live Bangla.in
+NewsMalayalam24x7.in;News Malayalam 24x7.in
+NewsNation.in;News Nation.in
+NewsStateMPCG.in;News State MP CG.in
+NewsStatePunjabHaryanaHimachal.in;News State Punjab Haryana Himachal.in
+NewsStateUKUP.in;News State UK UP.in
+NewsTamil24x7.in;News Tamil 24x7.in
+NewsTimeBangla.in;News Time Bangla.in
+NewsX.in;NewsX.in
+NewsXWorld.in;NewsX World.in
+NHKWorldJapan.in;NHK World Japan.in
+Nick.in;Nick.in
+NickHD+.in;Nick HDPlus.in
+NickJunior.in;Nick Junior.in
+NIJAMTV.in;NIJAM TV.in
+NireekshanaTV.in;Nireekshana TV.in
+NKTVPLUS.in;NKTV PLUS.in
+NorthEastLive.in;North East Live.in
+NTV.in;NTV.in
+NTVTelugu.in;NTV Telugu.in
+Omm.in;Omm.in
+OscarMoviesBhojpuri.in;Oscar Movies Bhojpuri.in
+OSDBinge.in;OSD Binge .in
+OTV.in;OTV.in
+OyeMusic.in;Oye Music.in
+ParasGoldOne.in;Paras Gold One.in
+Pasand.in;Pasand.in
+PeaceofMind.in;Peace of Mind.in
+PearTV.in;Pear TV.in
+PeppersTV.in;Peppers TV.in
+Pitaara.in;Pitaara.in
+PitaaraMovies.in;Pitaara Movies.in
+Pogo.in;Pogo.in
+PolimerNews.in;Polimer News.in
+PolimerTV.in;Polimer TV.in
+PowerTV.in;Power TV.in
+Powervision.in;Powervision.in
+PragNews.in;Prag News.in
+PrarthanaLife.in;Prarthana Life.in
+PrathamKhabar24x7.in;Pratham Khabar 24x7.in
+PratidinTime.in;Pratidin Time.in
+PravahPicture.in;Star Pravah Picture.in
+Prime9Plus.in;Prime9 Plus.in
+PrimeTV.in;Prime TV.in
+ProtidinTime.in;Protidin Time.in
+Prudent.in;Prudent.in
+PTCChakDe.in;PTC Chak De.in
+PTCMusic.in;PTC Music.in
+PTCNews.in;PTC News.in
+PTCPunjabi.in;PTC Punjabi.in
+PTCPunjabiGold.in;PTC Punjabi Gold.in
+PTCSimran.in;PTC Simran.in
+PublicMovies.in;Public Movies.in
+PublicMusic.in;Public Music.in
+PublicTV.in;Public TV.in
+PudhariNews.in;Pudhari News.in
+PuthiyaThalaimurai.in;Puthiya Thalaimurai.in
+Raapchik.in;Raapchik.in
+RajDigitalPlus.in;Raj Digital Plus.in
+RajMusix.in;Raj Musix.in
+RajMusixKannada.in;Raj Musix Kannada.in
+RajMusixMalayalam.in;Raj Musix Malayalam.in
+RAJMUSIXTAMIL.in;RAJ MUSIX TAMIL.in
+RajMusixTelugu.in;Raj Musix Telugu.in
+RajNagaichuvai.in;Raj Nagaichuvai.in
+RajNewsKannada.in;Raj News Kannada.in
+RajNewsMalayalam.in;Raj News Malayalam.in
+RajNewsTamil.in;Raj News Tamil.in
+RajNewsTelugu.in;Raj News Telugu.in
+RajPariwar.in;Raj Pariwar.in
+RajTV.in;Raj TV.in
+Ramdhenu.in;Ramdhenu.in
+Rang.in;Rang.in
+RangmanchActive.in;Rangmanch Active.in
+RDXGoa.in;RDX Goa.in
+RealNewsKerala.in;Real News Kerala.in
+RengoniTV.in;Rengoni TV.in
+ReporterTV.in;Reporter TV.in
+RepublicBangla.in;Republic Bangla.in
+REPUBLICBHARAT.in;REPUBLIC BHARAT.in
+REPUBLICTV.in;REPUBLIC TV.in
+RKannada.in;R Kannada.in
+RomedyNow.in;Romedy Now.in
+RomedyNowHD.in;Romedy Now HD.in
+RongeenTV.in;Rongeen TV.in
+RTV.in;R TV.in
+RuposhiBangla.in;Ruposhi Bangla.in
+RussiaToday.in;Russia Today.in
+SaamTV.in;Saam TV.in
+SachBedhadak.in;Sach Bedhadak.in
+SadhnaNewsMPCG.in;Sadhna News MP CG.in
+SadhnaPlusNews.in;Sadhna Plus News.in
+SadhnaPrimeNews.in;Sadhna Prime News.in
+SadhnaTV.in;Sadhna TV.in
+Sadvidya.in;Sadvidya.in
+SafariTV.in;Safari TV.in
+SaharaSamayUP-UKD.in;Sahara Samay UP-UKD.in
+SAILEELATV.in;SAILEELA TV.in
+SakshiTV.in;Sakshi TV.in
+SalaamTV.in;Salaam TV.in
+Samachar24News.in;Samachar 24 News.in
+SamaraNews.in;Samara News.in
+Samay.in;Samay.in
+SanaPlusTV.in;Sana Plus TV.in
+SanaTV.in;Sana TV.in
+SandeshNews.in;Sandesh News.in
+SangamTV.in;Sangam TV.in
+SangeetBangla.in;Sangeet Bangla.in
+SangeetBhojpuri.in;Sangeet Bhojpuri.in
+SangeetMarathi.in;Sangeet Marathi.in
+SanmargTV.in;Sanmarg TV.in
+SansadTV1.in;Sansad TV 1.in
+SansadTV1HD.in;Sansad TV 1 HD.in
+SansadTV2.in;Sansad TV 2.in
+SansadTV2HD.in;Sansad TV 2 HD.in
+Sanskar.in;Sanskar.in
+SantvaniTV.in;Santvani TV.in
+SathiyamTV.in;Sathiyam TV.in
+Satsang.in;Satsang.in
+SeithigalTV.in;Seithigal TV.in
+SET.in;SET.in
+SETHD.in;SET HD.in
+ShalomTV.in;Shalom TV.in
+SharnamTV.in;Sharnam TV.in
+SHEKINAH.in;SHEKINAH.in
+ShemarooJosh.in;Shemaroo Josh.in
+ShemarooMarathibana.in;Shemaroo Marathibana.in
+ShemarooTV.in;Shemaroo TV.in
+ShemarooUmang.in;Shemaroo Umang.in
+ShikshaTV.in;Shiksha TV.in
+ShirdiSaiBaba.in;Shirdi Sai Baba.in
+ShortsTV.in;Shorts TV.in
+Showbox.in;Showbox.in
+ShreeIchchhapuranBalajiMandir.in;Shree Ichchhapuran Balaji Mandir.in
+ShresthbharatTV.in;Shresthbharat TV.in
+ShriAshtavinayakMahaganpati,Ranjangaon.in;Shri Ashtavinayak Mahaganpati, Ranjangaon.in
+ShriBabulnaathTemple,Mumbai.in;Shri Babulnaath Temple, Mumbai.in
+ShriGangaAarti,Varanasi.in;Shri Ganga Aarti, Varanasi.in
+ShriISKCONGirgaon,Mumbai.in;Shri ISKCON Girgaon, Mumbai.in
+ShriMahalaxmiTemple,Mumbai.in;Shri Mahalaxmi Temple, Mumbai.in
+ShubhavaartaTV.in;Shubhavaarta TV.in
+ShubhTV.in;Shubh TV.in
+SidharthBhakti.in;Sidharth Bhakti.in
+SidharthGOLD.in;Sidharth GOLD.in
+SidharthTV.in;Sidharth TV.in
+SidharthUtsav.in;Sidharth Utsav.in
+SiriKannada.in;Siri Kannada.in
+Sirippoli.in;Sirippoli.in
+SomnathTemple.in;Somnath Temple.in
+Songdew.in;Songdew.in
+Sonic.in;Sonic.in
+SonicNickelodeon.in;Sonic Nickelodeon.in
+SONYAATH.in;SONY AATH.in
+SONYBBCEarth.in;SONY BBC Earth.in
+SONYBBCEarthHD.in;SONY BBC Earth HD.in
+SonyMarathi.in;Sony Marathi.in
+SONYMAX.in;SONY MAX.in
+SonyMax1.in;Sony Max 1.in
+SONYMAX2.in;SONY MAX 2.in
+SONYMAXHD.in;SONY MAX HD.in
+SonyPal.in;Sony Pal.in
+SONYPIX.in;SONY PIX.in
+SONYPIXHD.in;SONY PIX HD.in
+SONYSAB.in;SONY SAB.in
+SONYSABHD.in;SONY SAB HD.in
+SonySportsTEN1.in;Sony Sports TEN 1.in
+SonySportsTen1HD.in;Sony Sports Ten 1 HD.in
+SonySportsTEN2.in;Sony Sports TEN 2.in
+SonySportsTen2HD.in;Sony Sports Ten 2 HD.in
+SonySportsTEN3.in;Sony Sports TEN 3.in
+SonySportsTen3HD.in;Sony Sports Ten 3 HD.in
+SonySportsTEN4.in;Sony Sports TEN 4.in
+SonySportsTen4HD.in;Sony Sports Ten 4 HD.in
+SonySportsTen5.in;Sony Sports Ten 5.in
+SonySportsTen5HD.in;Sony Sports Ten 5 HD.in
+SonyWah.in;Sony Wah.in
+SONYYAY!.in;SONY YAY.in
+SouthStationHD.in;South Station HD.in
+SouthTalkiesHD.in;South Talkies HD.in
+SPONDON.in;SPONDON.in
+SriSankaraTV.in;Sri Sankara TV.in
+SristiTV.in;Sristi TV.in
+Star4K.in;Star 4K.in
+StarBharat.in;Star Bharat.in
+StarBharatHD.in;Star Bharat HD.in
+StarGold.in;Star Gold.in
+StarGold2.in;Star Gold 2.in
+StarGold2HD.in;Star Gold 2 HD.in
+StarGoldHD.in;Star GOLD HD.in
+StarGoldRomance.in;Star Gold Romance.in
+StarGoldSelect.in;Star Gold Select.in
+StarGoldSelectHD.in;Star Gold Select HD.in
+StarGoldThrills.in;Star Gold Thrills.in
+STARJalsha.in;STAR Jalsha.in
+StarJalshaHD.in;Star Jalsha HD.in
+StarJalshaMovies.in;Star Jalsha Movies.in
+StarKiran.in;Star Kiran.in
+StarKiranHD.in;Star Kiran HD.in
+StarLife.in;Star Life.in
+StarLifeHD.in;Star Life HD.in
+STARMaa.in;STAR Maa.in
+StarMaaGold.in;Star Maa Gold.in
+STARMaaHD.in;STAR Maa HD.in
+StarMaaMovies.in;Star Maa Movies.in
+StarMaaMoviesHD.in;Star Maa Movies HD.in
+StarMaaMusic.in;Star Maa Music.in
+StarMovies.in;Star Movies.in
+STARMoviesHD.in;STAR Movies HD.in
+StarMoviesSelect.in;Star Movies Select.in
+STARMoviesSelectHD.in;STAR Movies Select HD.in
+STARPlus.in;STAR Plus.in
+STARPlusHD.in;STAR Plus HD.in
+STARPravah.in;STAR Pravah.in
+StarPravahHD.in;Star Pravah HD.in
+StarPravahPicturesHD.in;Star Pravah Pictures HD.in
+StarSports1.in;Star Sports 1.in
+StarSports1HD.in;Star Sports 1 HD.in
+StarSports1Hindi.in;Star Sports 1 Hindi.in
+StarSports1HindiHD.in;Star Sports 1 Hindi HD.in
+StarSports1Kannada.in;Star Sports 1 Kannada.in
+StarSports1Tamil.in;Star Sports 1 Tamil.in
+StarSports1TamilHD.in;Star Sports 1 Tamil HD.in
+StarSports1Telugu.in;Star Sports 1 Telugu.in
+StarSports1TeluguHD.in;Star Sports 1 Telugu HD.in
+StarSports2.in;Star Sports 2.in
+StarSports2HD.in;Star Sports 2 HD.in
+StarSports2HindiHD.in;STAR SPORTS 2 HINDI HD.in
+StarSports2Kannada.in;STAR SPORTS 2 KANNADA.in
+StarSports2Tamil.in;Star Sports 2 Tamil.in
+StarSports2TeluguHD.in;Star Sports 2 Telugu HD.in
+StarSports3.in;Star Sports 3.in
+StarSportsKhel.in;Star Sports Khel.in
+StarSportsSelect1.in;Star Sports Select 1.in
+StarSportsSelect1HD.in;Star Sports Select 1 HD.in
+StarSportsSelect2.in;Star Sports Select 2.in
+StarSportsSelect2HD.in;Star Sports Select 2 HD.in
+StarSuvarna.in;Star Suvarna.in
+StarSuvarnaHD.in;Star Suvarna HD.in
+StarSuvarnaPlus.in;Star Suvarna Plus.in
+STARUtsav.in;STAR Utsav.in
+STARUtsavMovies.in;STAR Utsav Movies.in
+STARVijay.in;STAR Vijay.in
+StarVijayHD.in;Star Vijay HD.in
+StudioOne+.in;Studio One Plus.in
+STVHaryanaNews.in;STV Haryana News.in
+SubhartiTV.in;Subharti TV.in
+SUBINTV.in;SUBIN TV.in
+SudarshanNews.in;Sudarshan News.in
+SunBangla.in;Sun Bangla.in
+SunBanglaHD.in;Sun Bangla HD.in
+SunLife.in;Sun Life.in
+SunMarathi.in;Sun Marathi.in
+SunMusic.in;Sun Music.in
+SunMusicHD.in;Sun Music HD.in
+SunNeo.in;Sun Neo.in
+SunNeoHD.in;Sun Neo HD.in
+SunNews.in;Sun News.in
+SunTv.in;Sun Tv.in
+SunTVHD.in;Sun TV HD.in
+SuperHungama.in;Super Hungama.in
+SURIYANTV.in;SURIYAN TV.in
+SuryaComedy.in;Surya Comedy.in
+SuryaHD.in;Surya HD.in
+SuryaMovies.in;Surya Movies.in
+SuryaMusic.in;Surya Music.in
+SuryaSamachar.in;Surya Samachar.in
+SuryaTV.in;Surya TV.in
+SVBC.in;SVBC.in
+SVBC2.in;SVBC 2.in
+SVBC3.in;SVBC 3.in
+SVBCTelugu.in;SVBC Telugu.in
+SwadeshNews.in;Swadesh News.in
+SwarajExpressSMBC.in;Swaraj Express SMBC.in
+SwaraSagar.in;Swara Sagar.in
+SwarShree.in;Swar Shree.in
+SwatantraTV.in;Swatantra TV.in
+TabbarHits.in;Tabbar Hits.in
+TamilJanam.in;Tamil Janam.in
+TamilNaaptol.in;Tamil Naaptol.in
+TaraNews.in;Tara News.in
+Tarang.in;Tarang.in
+TarangMusic.in;Tarang Music.in
+TarTV.in;Tar TV.in
+TataPlayAdbhutKahaniyan.in;Tata Play Adbhut Kahaniyan.in
+TataPlayAnimeLocal.in;Tata Play Anime Local.in
+TataPlayAradhana.in;Tata Play Aradhana.in
+TataPlayAsomiyaMonoronjan.in;Tata Play Asomiya Monoronjan.in
+TataPlayAstroDuniya.in;Tata Play Astro Duniya.in
+TataPlayBanglaCinema.in;Tata Play Bangla Cinema.in
+TataPlayBeauty.in;Tata Play Beauty.in
+TataPlayBollywoodMasala.in;Tata Play Bollywood Masala.in
+TataPlayBollywoodPremiere.in;Tata Play Bollywood Premiere.in
+TataPlayBollywoodPremiereHD.in;Tata Play Bollywood Premiere HD.in
+TataPlayClassicCinema.in;Tata Play Classic Cinema.in
+TataPlayClassicTV.in;Tata Play Classic TV.in
+TataPlayComedy.in;Tata Play Comedy.in
+TataPlayCooking.in;Tata Play Cooking.in
+TataPlayDanceStudio..in;Tata Play Dance Studio..in
+TataPlayDeiveegam.in;Tata Play Deiveegam.in
+TataPlayEnglishinHindi.in;Tata Play English in Hindi.in
+TataPlayEnglishinTelugu.in;Tata Play English in Telugu.in
+TataPlayFancodeSports.in;Tata Play Fancode Sports.in
+TataPlayFitness.in;Tata Play Fitness.in
+TataPlayFunLearnJunior.in;Tata Play Fun Learn Junior.in
+TataPlayFunLearnPreschool.in;Tata Play Fun Learn Preschool.in
+TataPlayFunLearnRhymes.in;Tata Play Fun Learn Rhymes.in
+TataPlayGujaratiCinema.in;Tata Play Gujarati Cinema.in
+TataPlayHarGharStartup.in;Tata Play Har Ghar Startup.in
+TataPlayHits.in;Tata Play Hits.in
+TataPlayHollywoodLocal.in;Tata Play Hollywood Local.in
+TataPlayHollywoodLocalTamil.in;Tata Play Hollywood Local Tamil.in
+TataPlayHollywoodLocalTelugu.in;Tata Play Hollywood Local Telugu.in
+TataPlayIbaadat.in;Tata Play Ibaadat.in
+TataPlayJavedAkhtar.in;Tata Play Javed Akhtar.in
+TataPlayJEEPrep.in;Tata Play JEE Prep.in
+TataPlayKalyanTV.in;Tata Play Kalyan TV.in
+TataPlayKannadaCinema.in;Tata Play Kannada Cinema.in
+TataPlayKartavyaTV.in;Tata Play Kartavya TV.in
+TataPlayKDramas.in;Tata Play K Dramas.in
+TataPlayLakshyaTV.in;Tata Play Lakshya TV.in
+TataPlayMalayalamCinema.in;Tata Play Malayalam Cinema.in
+TataPlayMarathiCinema.in;Tata Play Marathi Cinema.in
+TataPlayMarathiClassics.in;Tata Play Marathi Classics.in
+TataPlayMusic.in;Tata Play Music.in
+TataPlayNEETPrep.in;Tata Play NEET Prep.in
+TataPlayPunjabDeRang.in;Tata Play Punjab De Rang.in
+TataPlayRomance.in;Tata Play Romance.in
+TataPlaySeniors.in;Tata Play Seniors.in
+TataPlayShortsTV.in;Tata Play ShortsTV.in
+TataPlaySmartManager.in;Tata Play Smart Manager.in
+TataPlaySouthTalkies.in;Tata Play South Talkies.in
+TataPlaySuperhitsSerials.in;Tata Play Superhits Serials.in
+TataPlayTamilCinema.in;Tata Play Tamil Cinema.in
+TataPlayTamilClassics.in;Tata Play Tamil Classics.in
+TataPlayTeluguCinema.in;Tata Play Telugu Cinema.in
+TataPlayTeluguClassics.in;Tata Play Telugu Classics.in
+TataPlayTheatreHD.in;Tata Play Theatre HD.in
+TataPlayToons+.in;Tata Play ToonsPlus.in
+TataPlayValamTV.in;Tata Play Valam TV.in
+TataPlayVedicMaths.in;Tata Play Vedic Maths.in
+TataPlayVideshiKahaniyan.in;Tata Play Videshi Kahaniyan.in
+TataPlayZindagi.in;Tata PlayZindagi.in
+TeluguNaaptol.in;Telugu Naaptol.in
+TestService4101.in;Test Service 4101.in
+ThanthiOne.in;Thanthi One.in
+ThanthiTV.in;Thanthi TV.in
+TheQ.in;TheQ.in
+TIMESNOW.in;TIMES NOW.in
+TimesNowNavbharat.in;Times Now Navbharat.in
+TimesNowNavbharatHD.in;Times Now Navbharat HD.in
+TimesNowWorld.in;Times Now World.in
+TimesNowWorldHD.in;Times Now World HD.in
+TLC.in;TLC.in
+TLCHD.in;TLC HD.in
+TLCHDWorld.in;TLC HD World.in
+TNews.in;T News.in
+TNPNews.in;TNP News.in
+TOTALTV.in;TOTAL TV.in
+Travelxp.in;Travelxp.in
+TravelxpHD.in;Travelxp HD.in
+TravelxpTamil.in;Travelxp Tamil.in
+TTN24.in;TTN 24.in
+TV100.in;TV 100.in
+TV24.in;TV 24.in
+TV27News.in;TV27 News.in
+TV45News.in;TV 45 News.in
+TV5Kannada.in;TV5 Kannada.in
+TV5MondeAsie.in;TV5 Monde Asie.in
+TV9Bangla.in;TV9 Bangla.in
+TV9Bharatvarsh.in;TV9 Bharatvarsh.in
+TV9Gujarati.in;TV9 Gujarati.in
+TV9Kannada.in;TV9 Kannada.in
+TV9Marathi.in;TV9 Marathi.in
+TV9Telugu.in;TV9 Telugu.in
+TVFiveNews.in;TV 5 News.in
+TVRIWorld.in;TVRI World.in
+TwentyFour.in;Twenty Four.in
+UBanglaTV.in;U Bangla TV.in
+UdayaComedy.in;Udaya Comedy.in
+UdayaMovies.in;Udaya Movies.in
+UdayaMusic.in;Udaya Music.in
+UdayaTV.in;Udaya TV.in
+UdayaTVHD.in;Udaya TV HD.in
+UdhayamTV.in;Udhayam TV.in
+UniqueTV.in;Unique TV.in
+UpdateIndia.in;Update India.in
+UTV.in;UTV.in
+UTVBindass.in;UTV Bindass.in
+V6Telugu.in;V6 Telugu.in
+VandeBharatNews.in;Vande Bharat News.in
+Vanitha.in;Vanitha.in
+VasanthTV.in;Vasanth TV.in
+VASPromoDuplicate1.in;VAS Promo Duplicate1.in
+Vedic.in;Vedic.in
+VendharTV.in;Vendhar TV.in
+Vh1.in;Vh1.in
+VH1HD.in;VH1 HD.in
+VijaySuper.in;Vijay Super.in
+VijaySuperHD.in;Vijay Super HD.in
+VijayTakkar.in;Vijay Takkar.in
+VIJAYTV.in;VIJAY TV.in
+VisionBeatsHD.in;Vision Beats HD.in
+VissaTV.in;Vissa TV.in
+VistaarNews.in;Vistaar News.in
+VSTIndia.in;VST India.in
+VTVGujarati.in;VTV Gujarati.in
+VTVNews.in;VTV News.in
+WeTV.in;We TV.in
+WION.in;WION.in
+WoWCinemaOne.in;WoW Cinema One.in
+Zee24Ghanta.in;Zee 24 Ghanta.in
+Zee24Kalak.in;Zee 24 Kalak.in
+Zee24Taas.in;Zee 24 Taas.in
+ZeeAnmol.in;Zee Anmol.in
+ZeeAnmolCinema.in;Zee Anmol Cinema.in
+ZeeAnmolCinema2.in;Zee Anmol Cinema 2.in
+ZeeBangla.in;Zee Bangla.in
+ZeeBanglaCinema.in;Zee Bangla Cinema.in
+ZeeBanglaHD.in;Zee Bangla HD.in
+ZeeBharat.in;Zee Bharat.in
+ZeeBiharJharkhand.in;Zee Bihar Jharkhand.in
+ZeeBiskope.in;Zee Biskope.in
+ZeeBollywood.in;Zee Bollywood.in
+ZeeBusiness.in;Zee Business.in
+ZeeCafe.in;Zee Cafe.in
+ZeeCafeHD.in;Zee Cafe HD.in
+ZEEChitramandir.in;ZEE Chitramandir.in
+ZeeCinema.in;Zee Cinema.in
+ZeeCinemaHD.in;Zee Cinema HD.in
+ZeeCinemalu.in;Zee Cinemalu.in
+ZeeCinemaluHD.in;Zee Cinemalu HD.in
+ZeeCinemaME.in;Zee Cinema ME.in
+ZeeCinemaUK.in;Zee Cinema UK.in
+ZeeCinemaUSA.in;Zee Cinema USA.in
+ZeeClassic.in;Zee Classic.in
+ZeeDelhiNCRHaryana.in;Zee Delhi NCR Haryana.in
+ZeeGanga.in;Zee Ganga.in
+ZeeKannada.in;Zee Kannada.in
+ZeeKannadaHD.in;Zee Kannada HD.in
+ZeeKannadaNews.in;Zee Kannada News.in
+ZeeKeralam.in;Zee Keralam.in
+ZeeKeralamHD.in;Zee Keralam HD.in
+ZeeMadhyaPradeshChhattisgarh.in;Zee Madhya Pradesh Chhattisgarh.in
+ZeeMarathi.in;Zee Marathi.in
+ZeeMarathiHD.in;Zee Marathi HD.in
+ZeeMarathiUSA.in;Zee Marathi USA.in
+ZeeNews.in;Zee News.in
+ZeePicchar.in;Zee Picchar.in
+ZeePiccharHD.in;Zee Picchar HD.in
+ZeePunjabHaryanaHimachalPradesh.in;Zee Punjab Haryana Himachal Pradesh.in
+ZeePunjabi.in;Zee Punjabi.in
+ZeeRajasthan.in;Zee Rajasthan.in
+ZeeRajasthanNews.in;Zee Rajasthan News.in
+ZeeSalaam.in;Zee Salaam.in
+ZeeSarthak.in;Zee Sarthak.in
+ZeeTalkies.in;Zee Talkies.in
+ZeeTalkiesHD.in;Zee Talkies HD.in
+ZeeTamil.in;Zee Tamil.in
+ZeeTamilHD.in;Zee Tamil HD.in
+ZeeTamilHDAPAC.in;Zee Tamil HD APAC.in
+ZeeTelugu.in;Zee Telugu.in
+ZEETELUGU.in;ZEE TELUGU.in
+ZeeTeluguHD.in;Zee Telugu HD.in
+ZeeTeluguNews.in;Zee Telugu News.in
+ZeeThirai.in;Zee Thirai.in
+ZeeThiraiHD.in;Zee Thirai HD.in
+ZeeTV.in;Zee TV.in
+ZeeTVAPAC.in;Zee TV APAC.in
+ZeeTVHD.in;Zee TV HD.in
+ZeeTVHDCanada.in;Zee TV HD Canada.in
+ZeeTVHDUK.in;Zee TV HD UK.in
+ZeeTVME.in;Zee TV ME.in
+ZeeTVUSA.in;Zee TV USA.in
+ZeeUttarPradeshUttarakhand.in;Zee Uttar Pradesh Uttarakhand.in
+ZeeYUVA.in;Zee YUVA.in
+ZeeZest.in;Zee Zest.in
+ZeeZestHD.in;Zee Zest HD.in
+ZindagiActive.in;Zindagi Active.in
+Zing.in;Zing.in
+ZingUSA.in;Zing USA.in
+Zoom.in;Zoom.in
+```
+
+In total this list contains: 962 channels
+
+---
+
 ## Indonesia
 > [Link](https://www.open-epg.com/files/indonesia.xml.gz)
 
@@ -1044,6 +2354,332 @@ In total this list contains: 212 channels
 
 ---
 
+## Korea
+
+> [Link](https://www.open-epg.com/files/korea1.xml.gz)
+
+```
+2000년대 인기가요.kr;2000년대 인기가요.kr
+9colors.kr;9colors.kr
+ABC Australia.kr;ABC Australia.kr
+All That Jazz.kr;All That Jazz.kr
+Animal Planet.kr;Animal Planet.kr
+ANIMAX.kr;ANIMAX.kr
+Asia UHD U.kr;Asia UHD U.kr
+AsiaM.kr;AsiaM.kr
+AsiaN.kr;AsiaN.kr
+AXN.kr;AXN.kr
+BALL TV.kr;BALL TV.kr
+BBC Earth.kr;BBC Earth.kr
+BBC News.kr;BBC News.kr
+BBS불교방송.kr;BBS불교방송.kr
+Black Music.kr;Black Music.kr
+Bloomberg.kr;Bloomberg.kr
+BTN불교TV.kr;BTN불교TV.kr
+C Channel.kr;C Channel.kr
+Cbeebies.kr;Cbeebies.kr
+CBS.kr;CBS.kr
+CCTV4.kr;CCTV4.kr
+CGN.kr;CGN.kr
+CGTN.kr;CGTN.kr
+CH.U.kr;CH.U.kr
+CH.WIDE.kr;CH.WIDE.kr
+CJ ONSTYLE.kr;CJ ONSTYLE.kr
+CJ ONSTYLE+.kr;CJ ONSTYLE+.kr
+CMCTV.kr;CMCTV.kr
+CNBC.kr;CNBC.kr
+CNN International.kr;CNN International.kr
+CNTV.kr;CNTV.kr
+Cool & Hot.kr;Cool & Hot.kr
+CTS기독교TV.kr;CTS기독교TV.kr
+DealSite경제TV.kr;DealSite경제TV.kr
+DesireTV 유료.kr;DesireTV 유료.kr
+Discovery Channel.kr;Discovery Channel.kr
+Discovery Science.kr;Discovery Science.kr
+Dog & Mom.kr;Dog & Mom.kr
+Dog TV 유료.kr;Dog TV 유료.kr
+Dramax.kr;Dramax.kr
+Dream Works Channel.kr;Dream Works Channel.kr
+DW-TV Asia+.kr;DW-TV Asia+.kr
+E-LIKE.kr;E-LIKE.kr
+EBS English.kr;EBS English.kr
+EBS KIDS.kr;EBS KIDS.kr
+EBS PLUS1.kr;EBS PLUS1.kr
+EBS PLUS2.kr;EBS PLUS2.kr
+EBS.kr;EBS.kr
+EBS2.kr;EBS2.kr
+Edge TV.kr;Edge TV.kr
+edu TV.kr;edu TV.kr
+ENA DRAMA.kr;ENA DRAMA.kr
+ENA PLAY.kr;ENA PLAY.kr
+ENA STORY.kr;ENA STORY.kr
+ENA.kr;ENA.kr
+Euro News.kr;Euro News.kr
+Eurosport.kr;Eurosport.kr
+E채널.kr;E채널.kr
+Focus Prime.kr;Focus Prime.kr
+Fox News.kr;Fox News.kr
+FTV.kr;FTV.kr
+FUN TV.kr;FUN TV.kr
+GMTV.kr;GMTV.kr
+GOLF&PBA.kr;GOLF&PBA.kr
+Good TV.kr;Good TV.kr
+GS MY SHOP.kr;GS MY SHOP.kr
+GS SHOP.kr;GS SHOP.kr
+GTV.kr;GTV.kr
+HD OBS W.kr;HD OBS W.kr
+HGTV.kr;HGTV.kr
+History.kr;History.kr
+HITS.kr;HITS.kr
+HQ+.kr;HQ+.kr
+IB SPORTS.kr;IB SPORTS.kr
+JEI EnglishTV.kr;JEI EnglishTV.kr
+JEI 재능TV.kr;JEI 재능TV.kr
+JTBC Golf.kr;JTBC Golf.kr
+JTBC GOLF&SPORTS.kr;JTBC GOLF&SPORTS.kr
+JTBC.kr;JTBC.kr
+JTBC2.kr;JTBC2.kr
+JTBC4.kr;JTBC4.kr
+K STAR.kr;K STAR.kr
+K-NET TV.kr;K-NET TV.kr
+KBS Drama.kr;KBS Drama.kr
+KBS Joy.kr;KBS Joy.kr
+KBS Kids.kr;KBS Kids.kr
+KBS LIFE.kr;KBS LIFE.kr
+KBS N Sports.kr;KBS N Sports.kr
+KBS Story.kr;KBS Story.kr
+KBS1.kr;KBS1.kr
+KBS2.kr;KBS2.kr
+KFN.kr;KFN.kr
+KTV.kr;KTV.kr
+kt알파쇼핑.kr;kt알파쇼핑.kr
+K바둑.kr;K바둑.kr
+Lifetime.kr;Lifetime.kr
+LOTTE OneTV.kr;LOTTE OneTV.kr
+MAXPORTS.kr;MAXPORTS.kr
+MBC Dramanet.kr;MBC Dramanet.kr
+MBC Every1.kr;MBC Every1.kr
+MBC M.kr;MBC M.kr
+MBC NET.kr;MBC NET.kr
+MBC ON.kr;MBC ON.kr
+MBC SPORTS+.kr;MBC SPORTS+.kr
+MBC.kr;MBC.kr
+MBN Plus.kr;MBN Plus.kr
+MBN.kr;MBN.kr
+MGTV.kr;MGTV.kr
+Mnet.kr;Mnet.kr
+mplex.kr;mplex.kr
+MTN 머니투데이방송.kr;MTN 머니투데이방송.kr
+NBNTV.kr;NBNTV.kr
+NBS한국농업방송.kr;NBS한국농업방송.kr
+NHK WP.kr;NHK WP.kr
+Now제주TV.kr;Now제주TV.kr
+NS Shop+.kr;NS Shop+.kr
+NS홈쇼핑.kr;NS홈쇼핑.kr
+OBS.kr;OBS.kr
+OCN Movies.kr;OCN Movies.kr
+OCN Movies2.kr;OCN Movies2.kr
+OCN.kr;OCN.kr
+OLIFE.kr;OLIFE.kr
+ONCE.kr;ONCE.kr
+ONN 닥터TV.kr;ONN 닥터TV.kr
+ONT.kr;ONT.kr
+ORFEO.kr;ORFEO.kr
+OST 천국.kr;OST 천국.kr
+OUN.kr;OUN.kr
+Playboy TV 유료.kr;Playboy TV 유료.kr
+Rainy Day.kr;Rainy Day.kr
+RNA.kr;RNA.kr
+Rock Festival.kr;Rock Festival.kr
+SBS Biz.kr;SBS Biz.kr
+SBS FiL UHD U.kr;SBS FiL UHD U.kr
+SBS funE.kr;SBS funE.kr
+SBS Golf2.kr;SBS Golf2.kr
+SBS LIFE.kr;SBS LIFE.kr
+SBS M.kr;SBS M.kr
+SBS Plus.kr;SBS Plus.kr
+SBS Sports.kr;SBS Sports.kr
+SBS.kr;SBS.kr
+SBSGOLF.kr;SBSGOLF.kr
+SK stoa.kr;SK stoa.kr
+Sky UHD U.kr;Sky UHD U.kr
+SkySports.kr;SkySports.kr
+SOOP.kr;SOOP.kr
+SPOTV Golf & Health.kr;SPOTV Golf & Health.kr
+SPOTV K.kr;SPOTV K.kr
+SPOTV PRIME 유료.kr;SPOTV PRIME 유료.kr
+SPOTV PRIME+ 유료.kr;SPOTV PRIME+ 유료.kr
+SPOTV PRIME2 유료.kr;SPOTV PRIME2 유료.kr
+SPOTV.kr;SPOTV.kr
+SPOTV2.kr;SPOTV2.kr
+STB상생방송.kr;STB상생방송.kr
+STN.kr;STN.kr
+STORYTV.kr;STORYTV.kr
+TBS TV.kr;TBS TV.kr
+THE MOVIE.kr;THE MOVIE.kr
+Tooniverse.kr;Tooniverse.kr
+TV5MONDE.kr;TV5MONDE.kr
+TVasiaPlus.kr;TVasiaPlus.kr
+TVCHOSUN2.kr;TVCHOSUN2.kr
+TVCHOSUN3.kr;TVCHOSUN3.kr
+tvN DRAMA.kr;tvN DRAMA.kr
+tvN SHOW.kr;tvN SHOW.kr
+tvN SPORTS.kr;tvN SPORTS.kr
+tvN STORY.kr;tvN STORY.kr
+tvN.kr;tvN.kr
+TV속 화제음악.kr;TV속 화제음악.kr
+TV조선.kr;TV조선.kr
+UHDDreamTV U.kr;UHDDreamTV U.kr
+UMAX U.kr;UMAX U.kr
+UXN U.kr;UXN U.kr
+viki 유료.kr;viki 유료.kr
+WeeTV.kr;WeeTV.kr
+WeLike.kr;WeLike.kr
+W쇼핑.kr;W쇼핑.kr
+YCN유림방송.kr;YCN유림방송.kr
+YTN 사이언스.kr;YTN 사이언스.kr
+YTN.kr;YTN.kr
+YTN2.kr;YTN2.kr
+ZooMoo.kr;ZooMoo.kr
+가요TV.kr;가요TV.kr
+가톨릭평화방송.kr;가톨릭평화방송.kr
+공영쇼핑.kr;공영쇼핑.kr
+국악방송.kr;국악방송.kr
+국회방송.kr;국회방송.kr
+뉴트로TV.kr;뉴트로TV.kr
+다문화 음악 1.kr;다문화 음악 1.kr
+다문화 음악 2.kr;다문화 음악 2.kr
+다문화티브이.kr;다문화티브이.kr
+다빈치러닝.kr;다빈치러닝.kr
+당신을 위한 발라드.kr;당신을 위한 발라드.kr
+대교 뉴이프Plus.kr;대교 뉴이프Plus.kr
+대교 어린이TV.kr;대교 어린이TV.kr
+더라이프.kr;더라이프.kr
+더라이프2.kr;더라이프2.kr
+동아TV.kr;동아TV.kr
+드라마큐브.kr;드라마큐브.kr
+디마티비.kr;디마티비.kr
+디스토리.kr;디스토리.kr
+디원.kr;디원.kr
+러브 발라드 명곡 550.kr;러브 발라드 명곡 550.kr
+롯데홈쇼핑.kr;롯데홈쇼핑.kr
+리빙TV.kr;리빙TV.kr
+리얼TV.kr;리얼TV.kr
+마운틴TV.kr;마운틴TV.kr
+매일경제TV.kr;매일경제TV.kr
+메디컬TV.kr;메디컬TV.kr
+미드나잇 유료.kr;미드나잇 유료.kr
+바둑TV.kr;바둑TV.kr
+법률방송.kr;법률방송.kr
+복지TV.kr;복지TV.kr
+붐TV.kr;붐TV.kr
+브라보키즈.kr;브라보키즈.kr
+브레인TV.kr;브레인TV.kr
+비너스 유료.kr;비너스 유료.kr
+빌리어즈티비.kr;빌리어즈티비.kr
+뽀요TV.kr;뽀요TV.kr
+사회안전방송.kr;사회안전방송.kr
+생활체육TV.kr;생활체육TV.kr
+서울경제TV.kr;서울경제TV.kr
+소상공인시장tv.kr;소상공인시장tv.kr
+쇼핑엔티.kr;쇼핑엔티.kr
+스마일티브이플러스.kr;스마일티브이플러스.kr
+스무드재즈.kr;스무드재즈.kr
+스크린.kr;스크린.kr
+스크린골프존.kr;스크린골프존.kr
+슬로우TV.kr;슬로우TV.kr
+시네마천국.kr;시네마천국.kr
+시니어TV.kr;시니어TV.kr
+신세계쇼핑.kr;신세계쇼핑.kr
+실버아이TV.kr;실버아이TV.kr
+씨네프.kr;씨네프.kr
+아리랑 TV.kr;아리랑 TV.kr
+아이넷TV.kr;아이넷TV.kr
+아이넷라이프.kr;아이넷라이프.kr
+애니박스.kr;애니박스.kr
+애니원.kr;애니원.kr
+애니플러스.kr;애니플러스.kr
+엄마랑 EQ동요.kr;엄마랑 EQ동요.kr
+에이플드라마.kr;에이플드라마.kr
+엑스원.kr;엑스원.kr
+엔터TV.kr;엔터TV.kr
+연합뉴스TV JOB.kr;연합뉴스TV JOB.kr
+연합뉴스TV.kr;연합뉴스TV.kr
+연합뉴스경제TV.kr;연합뉴스경제TV.kr
+원음방송.kr;원음방송.kr
+월드 클래식 무비.kr;월드 클래식 무비.kr
+유교TV방송.kr;유교TV방송.kr
+육아방송.kr;육아방송.kr
+응답하라 8090.kr;응답하라 8090.kr
+이데일리TV.kr;이데일리TV.kr
+이벤트TV.kr;이벤트TV.kr
+인기성인가요 HOT 300.kr;인기성인가요 HOT 300.kr
+인디필름.kr;인디필름.kr
+중화TV.kr;중화TV.kr
+지니 TV 가이드.kr;지니 TV 가이드.kr
+지방자치TV.kr;지방자치TV.kr
+채널 J.kr;채널 J.kr
+채널 키즈랜드.kr;채널 키즈랜드.kr
+채널A 플러스.kr;채널A 플러스.kr
+채널A.kr;채널A.kr
+채널i.kr;채널i.kr
+채널s 플러스.kr;채널s 플러스.kr
+채널S.kr;채널S.kr
+채널W.kr;채널W.kr
+채널나우.kr;채널나우.kr
+채널뷰.kr;채널뷰.kr
+채널액션.kr;채널액션.kr
+채널이엠.kr;채널이엠.kr
+채널차이나.kr;채널차이나.kr
+채널칭.kr;채널칭.kr
+최신 가요 댄스.kr;최신 가요 댄스.kr
+최신 가요 차트 HOT 150.kr;최신 가요 차트 HOT 150.kr
+최신 발라드 가요.kr;최신 발라드 가요.kr
+최신 트로트 히트.kr;최신 트로트 히트.kr
+최신 히트 팝스.kr;최신 히트 팝스.kr
+최신인기가요.kr;최신인기가요.kr
+최신인기댄스&힙합.kr;최신인기댄스&힙합.kr
+카투니토.kr;카투니토.kr
+카툰네트워크.kr;카툰네트워크.kr
+캐리TV.kr;캐리TV.kr
+캐치온1 유료.kr;캐치온1 유료.kr
+캐치온2 유료.kr;캐치온2 유료.kr
+컬쳐플러스.kr;컬쳐플러스.kr
+코미디TV.kr;코미디TV.kr
+쿠키건강TV.kr;쿠키건강TV.kr
+클래식 산책.kr;클래식 산책.kr
+클럽뮤직.kr;클럽뮤직.kr
+키즈톡톡플러스 유료.kr;키즈톡톡플러스 유료.kr
+텔레노벨라.kr;텔레노벨라.kr
+토마토증권통.kr;토마토증권통.kr
+토마토집통.kr;토마토집통.kr
+토마토클래식.kr;토마토클래식.kr
+트로트가요무대.kr;트로트가요무대.kr
+파워스테이션.kr;파워스테이션.kr
+팍스경제TV.kr;팍스경제TV.kr
+폴라리스TV.kr;폴라리스TV.kr
+플레이런TV.kr;플레이런TV.kr
+핑크퐁채널.kr;핑크퐁채널.kr
+핑크하우스TV 유료.kr;핑크하우스TV 유료.kr
+하이라이트TV.kr;하이라이트TV.kr
+한경arteTV.kr;한경arteTV.kr
+한국 발라드 명곡770.kr;한국 발라드 명곡770.kr
+한국경제TV.kr;한국경제TV.kr
+한국낚시방송.kr;한국낚시방송.kr
+한국인이 사랑한 팝송.kr;한국인이 사랑한 팝송.kr
+해피독티비 유료.kr;해피독티비 유료.kr
+허니TV 유료.kr;허니TV 유료.kr
+헬스메디tv.kr;헬스메디tv.kr
+현대홈쇼핑.kr;현대홈쇼핑.kr
+현대홈쇼핑+샵.kr;현대홈쇼핑+샵.kr
+홈&쇼핑.kr;홈&쇼핑.kr
+홈클래식.kr;홈클래식.kr
+```
+
+In total this list contains: 315 channels
+
+---
+
 ## Malaysia
 > [Link](https://www.open-epg.com/files/malaysia3.xml.gz)
 
@@ -1205,7 +2841,291 @@ In total this list contains: 151 channels
 
 ---
 
+## Netherlands
+
+> [Link](https://www.open-epg.com/files/netherlands.xml.gz)
+
+100NLTV.nl;100%NL TV.nl
+192TV.nl;192TV.nl
+1Achterhoek.nl;1Achterhoek.nl
+1Twente.nl;1Twente.nl
+24Kitchen.nl;24Kitchen.nl
+2M.nl;2M.nl
+3Sat.nl;3Sat.nl
+A1TV.nl;A1 TV.nl
+AAenHunzeTV.nl;AA en Hunze TV.nl
+AlbrandswaardTV.nl;Albrandswaard TV.nl
+AlJazeera.nl;Al Jazeera.nl
+AlJazeeraInternational.nl;Al Jazeera International.nl
+AltenaTV.nl;Altena TV.nl
+AnimalPlanet.nl;Animal Planet.nl
+ARD.nl;ARD.nl
+ARTE.nl;ARTE.nl
+AssenTV.nl;Assen TV.nl
+AT5.nl;AT5.nl
+ATOSTV.nl;ATOS TV.nl
+ATVAvrupa.nl;ATV Avrupa.nl
+BabesTV.nl;Babes TV.nl
+BabyTV.nl;BabyTV.nl
+BangU.nl;Bang U.nl
+BBC1.nl;BBC1.nl
+BBC2.nl;BBC2.nl
+BBC4.nl;BBC4.nl
+BBCNews.nl;BBC News.nl
+BBCNL.nl;BBC NL.nl
+BeekTV.nl;Beek TV.nl
+BeleefKPN.nl;Beleef KPN.nl
+BloombergTelevision.nl;Bloomberg Television.nl
+BOTV.nl;BO TV.nl
+BR6TV.nl;BR6 TV.nl
+Brazzers.nl;Brazzers.nl
+BredaNuTV.nl;BredaNu TV.nl
+BVN.nl;BVN.nl
+CanalAction.nl;CanalPlus Action.nl
+Cartoonito.nl;Cartoonito.nl
+CartoonNetwork.nl;Cartoon Network.nl
+CBBC.nl;CBBC.nl
+CBSReality.nl;CBS Reality.nl
+CentraalTV.nl;Centraal TV.nl
+CGTN.nl;CGTN.nl
+CNBCEurope.nl;CNBC Europe.nl
+CNN.nl;CNN.nl
+ComedyCentral.nl;Comedy Central.nl
+Crime PlusInvestigation.nl;Crime Plus Investigation.nl
+DeltaTV.nl;Delta TV.nl
+Demo.nl;Demo.nl
+DenHaagTV.nl;Den Haag TV.nl
+Desire.nl;Desire.nl
+Discovery.nl;Discovery.nl
+DiscoveryScience.nl;Discovery Science.nl
+DisneyChannel.nl;Disney Channel.nl
+DisneyXD.nl;Disney XD.nl
+DorcelTV.nl;Dorcel TV.nl
+DreamworksChannel.nl;Dreamworks Channel.nl
+DTVOssBernheze.nl;DTV Oss Bernheze.nl
+Dusk.nl;Dusk.nl
+DuskDeluxe.nl;Dusk Deluxe.nl
+EdeTV.nl;Ede TV.nl
+Eemland1.nl;Eemland1.nl
+EEntertainment.nl;E Entertainment.nl
+ErotiqueBoutique.nl;Erotique Boutique.nl
+ESPN1.nl;ESPN 1.nl
+ESPN2.nl;ESPN 2.nl
+ESPN3.nl;ESPN 3.nl
+ESPN4.nl;ESPN 4.nl
+EuroD.nl;Euro D.nl
+Euronews.nl;Euronews.nl
+Eurosport1.nl;Eurosport 1.nl
+Eurosport2.nl;Eurosport 2.nl
+EuroStar.nl;Euro Star.nl
+ExtremeSportsChannel.nl;Extreme Sports Channel.nl
+Family7.nl;Family 7.nl
+FashionTV.nl;FashionTV.nl
+FeelGoodTV.nl;Feel Good TV.nl
+Film1Action.nl;Film1 Action.nl
+Film1Drama.nl;Film1 Drama.nl
+Film1Family.nl;Film1 Family.nl
+Film1Premiere.nl;Film1 Premiere.nl
+FilmBox.nl;FilmBox.nl
+France2.nl;France 2.nl
+France24.nl;France24.nl
+France3.nl;France 3.nl
+GemeenteWestlandTV.nl;Gemeente Westland TV.nl
+Gl8.nl;Gl8.nl
+Gouwestad.nl;Gouwestad.nl
+HaarlemTV.nl;Haarlem TV.nl
+HGTV.nl;HGTV.nl
+History.nl;History.nl
+HofstreekTV.nl;Hofstreek TV.nl
+HOiTV.nl;HOi TV.nl
+HorseAndCountryTV.nl;Horse and Country TV.nl
+HustlerTV.nl;Hustler TV.nl
+IdeaalTV.nl;Ideaal TV.nl
+IJsselmondTV.nl;IJsselmond TV.nl
+INPLUS.nl;INPLUS.nl
+InvestigationDiscovery.nl;Investigation Discovery.nl
+KabelEins.nl;Kabel Eins.nl
+KempenTV.nl;Kempen TV.nl
+Ketnet.nl;Ketnet.nl
+Kika.nl;Kika.nl
+L1TV.nl;L1 TV.nl
+LangstraatTV.nl;Langstraat TV.nl
+LansingerlandTV.nl;Lansingerland TV.nl
+LocoTV.nl;Loco TV.nl
+LOETV.nl;LOE TV.nl
+LoveNature.nl;LoveNature.nl
+LOVOMTV.nl;LOVO-MTV.nl
+MediasetItalia.nl;Mediaset Italia.nl
+MeidenVanHollandHard.nl;Meiden van Holland Hard.nl
+MenTV.nl;Men TV.nl
+MeppelTV.nl;Meppel TV.nl
+Mezzo.nl;Mezzo.nl
+ML5TV.nl;ML5 TV.nl
+MLATV.nl;MLA TV.nl
+MTV.nl;MTV.nl
+MTV00s.nl;MTV 00s.nl
+MTV80s.nl;MTV80s.nl
+NatGeoWild.nl;Nat Geo Wild.nl
+NationalGeographic.nl;National Geographic.nl
+NDR.nl;NDR.nl
+Net5.nl;Net 5.nl
+NHKWORLDJAPAN.nl;NHK WORLD JAPAN.nl
+NHNieuws.nl;NH Nieuws.nl
+Nickelodeon.nl;Nickelodeon.nl
+NickelodeonUkraine.nl;Nickelodeon Ukraine.nl
+NickJr.nl;Nick Jr..nl
+NickToons.nl;Nick Toons.nl
+Njam.nl;Njam.nl
+NOOSTV.nl;NOOS TV.nl
+NPO1.nl;NPO 1.nl
+NPO1Extra.nl;NPO 1 Extra.nl
+NPO2.nl;NPO 2.nl
+NPO2Extra.nl;NPO 2 Extra.nl
+NPO3.nl;NPO 3.nl
+NPOPolitiekEnNieuws.nl;NPO Politiek en Nieuws.nl
+ntv.nl;n-tv.nl
+OirschotTV.nl;Oirschot TV.nl
+OmroepArchipel.nl;Omroep Archipel.nl
+OmroepBergenDalTV.nl;Omroep Berg en Dal TV.nl
+OmroepBrabant.nl;Omroep Brabant.nl
+OmroepCentraalTV.nl;Omroep Centraal TV.nl
+OmroepDommellandTV.nl;Omroep Dommelland TV.nl
+OmroepDrimmelenTV.nl;Omroep Drimmelen TV.nl
+OmroepFlevoland.nl;Omroep Flevoland.nl
+OmroepGelderland.nl;Omroep Gelderland.nl
+OmroepGoirleTV.nl;Omroep Goirle TV.nl
+OmroepHorstaandeMaasTV.nl;Omroep Horst aan de Maas TV.nl
+OmroepMeierijstadTV.nl;Omroep Meierijstad TV.nl
+OmroepPeelrandTV.nl;Omroep Peelrand TV.nl
+OmroepSudwestTV.nl;Omroep Sudwest TV.nl
+OmroepTholenTV.nl;Omroep Tholen TV.nl
+OmroepTilburgTV.nl;Omroep Tilburg TV.nl
+OmroepVenloTV.nl;Omroep Venlo TV.nl
+OmroepZeeland.nl;Omroep Zeeland.nl
+OmroepZVLTV.nl;Omroep ZVL TV.nl
+OmropFryslan.nl;Omrop Fryslan.nl
+One.nl;One.nl
+ONS.nl;ONS.nl
+OnsWestBrabantTV.nl;OnsWestBrabant TV.nl
+OOGTV.nl;OOG TV.nl
+Oost.nl;Oost.nl
+OPENRotterdamTV.nl;OPEN Rotterdam TV.nl
+OutTV.nl;Out TV.nl
+ParamountNetwork.nl;Paramount Network.nl
+PassieXXX.nl;PassieXXX.nl
+PebbleTV.nl;Pebble TV.nl
+PenMTV.nl;P en M TV.nl
+PenthouseTV.nl;Penthouse TV.nl
+PilotHD1.nl;Pilot HD 1.nl
+PilotHD4.nl;Pilot HD 4.nl
+PilotHDPlus2.nl;Pilot HDPlus 2.nl
+PilotHDPlus3.nl;Pilot HDPlus 3.nl
+PilotSD5.nl;Pilot SD 5.nl
+PilotSD6.nl;Pilot SD 6.nl
+PilotSD7.nl;Pilot SD 7.nl
+Play4.nl;Play4.nl
+ProSieben.nl;ProSieben.nl
+PureBabes.nl;Pure Babes.nl
+RaiUno.nl;Rai Uno.nl
+RealityKingsTV.nl;Reality Kings TV.nl
+REGIO8TV.nl;REGIO8 TV.nl
+RN7TV.nl;RN7 TV.nl
+RPLTV.nl;RPL TV.nl
+RTBFLaUne.nl;RTBF La Une.nl
+RTBFTipik.nl;RTBF Tipik.nl
+RTL.nl;RTL.nl
+RTL4.nl;RTL 4.nl
+RTL5.nl;RTL 5.nl
+RTL7.nl;RTL 7.nl
+RTL8.nl;RTL 8.nl
+RTLCrime.nl;RTL Crime.nl
+RTLII.nl;RTL II.nl
+RTLLounge.nl;RTL Lounge.nl
+RTLTelekids.nl;RTL Telekids.nl
+RTLZ.nl;RTL Z.nl
+RTV1.nl;RTV1.nl
+RTV7.nl;RTV-7.nl
+RTVConnectTV.nl;RTV Connect TV.nl
+RTVDrenthe.nl;RTV Drenthe.nl
+RTVHattemTV.nl;RTV Hattem TV.nl
+RTVHorizon.nl;RTV Horizon.nl
+RTVKrimpenerwaard.nl;RTV Krimpenerwaard.nl
+RTVNoord.nl;RTV Noord.nl
+RTVOost.nl;RTV Oost.nl
+RTVPurmerend.nl;RTV Purmerend.nl
+RTVRijnmond.nl;RTV Rijnmond.nl
+RTVRijnstreekTV.nl;RTV Rijnstreek TV.nl
+RTVSlingeland.nl;RTV Slingeland.nl
+RTVUtrecht.nl;RTV Utrecht.nl
+RTVWest.nl;RTV West.nl
+Sat1.nl;Sat1.nl
+SBS6.nl;SBS6.nl
+SBS9.nl;SBS9.nl
+ShowTurk.nl;Show Turk.nl
+SLAMTV.nl;SLAM TV.nl
+SonyMax.nl;Sony Max.nl
+SonyTVAsia.nl;Sony TV Asia.nl
+STARChannel.nl;STAR Channel.nl
+StingrayClassica.nl;Stingray Classica.nl
+StingrayDJAZZ.nl;Stingray DJAZZ.nl
+StingrayiConcerts.nl;Stingray iConcerts.nl
+StingrayLiteTV.nl;Stingray Lite TV.nl
+SuperRTL.nl;SuperRTL.nl
+Tagesschau24.nl;Tagesschau24.nl
+TLC.nl;TLC.nl
+TRT.nl;TRT.nl
+TRTCocuk.nl;TRT Cocuk.nl
+TRTHaber.nl;TRT Haber.nl
+TRTSpor.nl;TRT Spor.nl
+TRTWorld.nl;TRT World.nl
+TrueAmateurs.nl;True Amateurs.nl
+TV538.nl;TV538.nl
+TV5MONDE.nl;TV5MONDE.nl
+TV8.nl;TV8.nl
+TVE.nl;TVE.nl
+TVGelderland.nl;TV Gelderland.nl
+TVNoord.nl;TV Noord.nl
+TVNunspeet.nl;TV Nunspeet.nl
+TVOranje.nl;TV Oranje.nl
+TVPapendrecht.nl;TV Papendrecht.nl
+TVRijnmond.nl;TV Rijnmond.nl
+TVStichtseVecht.nl;TV Stichtse Vecht.nl
+TVWest.nl;TV West.nl
+TWEE.nl;TWEE.nl
+UtsavBharat.nl;Utsav Bharat.nl
+UtsavGold.nl;Utsav Gold.nl
+UtsavPlus.nl;Utsav Plus.nl
+VechtdalLeeftTV.nl;Vechtdal Leeft TV.nl
+Veronica.nl;Veronica.nl
+VeronicaDisneyJr..nl;Veronica / Disney Jr..nl
+ViaplayTV.nl;Viaplay TV.nl
+ViaplayTVPlus.nl;Viaplay TVPlus.nl
+VijayTV.nl;Vijay TV.nl
+VOX.nl;VOX.nl
+VRT1.nl;VRT 1.nl
+VRTCanvas.nl;VRT Canvas.nl
+WDR.nl;WDR.nl
+WOS.nl;WOS.nl
+WSport.nl;W-Sport.nl
+XITE.nl;XITE.nl
+XMO.nl;X-MO.nl
+ZDF.nl;ZDF.nl
+ZeeCinema.nl;Zee Cinema.nl
+ZeeTV.nl;Zee TV.nl
+ZiggoSport.nl;Ziggo Sport.nl
+ZiggoSport2.nl;Ziggo Sport 2.nl
+ZiggoSport3.nl;Ziggo Sport 3.nl
+ZiggoSport4.nl;Ziggo Sport 4.nl
+ZiggoSport5.nl;Ziggo Sport 5.nl
+ZiggoSport6.nl;Ziggo Sport 6.nl
+```
+
+In total this list contains: 273 channels
+
+---
+
 ## Singapore
+
 > [Link](https://www.open-epg.com/files/singapore1.xml.gz)
 
 ```
@@ -1357,8 +3277,234 @@ Zoom TV.sg;Zoom TV.sg
 In total this list contains: 143 channels
 
 ---
+## Slovakia
+
+> [Link](https://www.open-epg.com/files/slovakia1.xml.gz)
+
+```
+:24 HD.sk;:24 HD.sk
+:ŠPORT HD - LIVE.sk;:ŠPORT HD - LIVE.sk
+:ŠPORT HD.sk;:ŠPORT HD.sk
+AMC HD.sk;AMC HD.sk
+Animal Planet HD.sk;Animal Planet HD.sk
+ARD.sk;ARD.sk
+Arena Sport 1 HD.sk;Arena Sport 1 HD.sk
+Arena Sport 2 HD.sk;Arena Sport 2 HD.sk
+Arte.sk;Arte.sk
+Auto Motor Sport HD.sk;Auto Motor Sport HD.sk
+Barrandov Krimi HD.sk;Barrandov Krimi HD.sk
+Barrandov TV HD.sk;Barrandov TV HD.sk
+BBC Earth HD.sk;BBC Earth HD.sk
+BBC First HD.sk;BBC First HD.sk
+BBC News.sk;BBC News.sk
+Bloomberg Eu.sk;Bloomberg Eu.sk
+Brazzers TV Europe.sk;Brazzers TV Europe.sk
+Canal 24 Horas.sk;Canal 24 Horas.sk
+CANAL+ Action HD.sk;CANAL+ Action HD.sk
+CANAL+ Sport 4 HD.sk;CANAL+ Sport 4 HD.sk
+CANAL+ Sport 5 HD.sk;CANAL+ Sport 5 HD.sk
+CANAL+ Sport 6 HD.sk;CANAL+ Sport 6 HD.sk
+CANAL+ Sport 7 HD.sk;CANAL+ Sport 7 HD.sk
+CANAL+ Sport 8 HD.sk;CANAL+ Sport 8 HD.sk
+CANAL+ Sport HD.sk;CANAL+ Sport HD.sk
+Cartoon Network HD.sk;Cartoon Network HD.sk
+Cinemax 2 HD.sk;Cinemax 2 HD.sk
+Cinemax HD.sk;Cinemax HD.sk
+Club MTV.sk;Club MTV.sk
+CNN Intl. Europe.sk;CNN Intl. Europe.sk
+CNN Prima News HD.sk;CNN Prima News HD.sk
+Comedy Central HU.sk;Comedy Central HU.sk
+Cool TV.sk;Cool TV.sk
+Crime and Inv..sk;Crime and Inv..sk
+CS Film-CS Horror HD.sk;CS Film-CS Horror HD.sk
+CS History.sk;CS History.sk
+CS Mystery.sk;CS Mystery.sk
+ČT :D - ČT Art HD.sk;ČT :D - ČT Art HD.sk
+ČT1 HD.sk;ČT1 HD.sk
+ČT2 HD.sk;ČT2 HD.sk
+ČT24 HD.sk;ČT24 HD.sk
+DAJTO HD.sk;DAJTO HD.sk
+Deutsche Welle.sk;Deutsche Welle.sk
+Discovery Channel HD.sk;Discovery Channel HD.sk
+Disney Channel.sk;Disney Channel.sk
+Doma HD.sk;Doma HD.sk
+Dorcel TV HD.sk;Dorcel TV HD.sk
+DRAMOX.sk;DRAMOX.sk
+Duck TV HD.sk;Duck TV HD.sk
+Duna HD.sk;Duna HD.sk
+Duna World HD.sk;Duna World HD.sk
+Dusk TV.sk;Dusk TV.sk
+Dvojka HD.sk;Dvojka HD.sk
+DVTV EXTRA HD.sk;DVTV EXTRA HD.sk
+English Club HD.sk;English Club HD.sk
+Epic Drama HD.sk;Epic Drama HD.sk
+Erox HD.sk;Erox HD.sk
+Eroxxx HD.sk;Eroxxx HD.sk
+Euronews.sk;Euronews.sk
+Eurosport 1 HD.sk;Eurosport 1 HD.sk
+Eurosport 2 HD.sk;Eurosport 2 HD.sk
+Extreme sports.sk;Extreme sports.sk
+Fashion TV.sk;Fashion TV.sk
+Fightbox HD.sk;Fightbox HD.sk
+Film 4.sk;Film 4.sk
+Film Europe +.sk;Film Europe +.sk
+Film Europe HD.sk;Film Europe HD.sk
+FILM+ HD.sk;FILM+ HD.sk
+FILM+ HU HD.sk;FILM+ HU HD.sk
+Filmbox Extra HD.sk;Filmbox Extra HD.sk
+Filmbox Family.sk;Filmbox Family.sk
+Filmbox HD.sk;Filmbox HD.sk
+Filmbox Premium HD.sk;Filmbox Premium HD.sk
+Filmbox Stars HD.sk;Filmbox Stars HD.sk
+Fishing and Hunting.sk;Fishing and Hunting.sk
+Folklorika TV HD.sk;Folklorika TV HD.sk
+Food Network HD.sk;Food Network HD.sk
+France 24 FR.sk;France 24 FR.sk
+France 24.sk;France 24.sk
+FREEDOM.sk;FREEDOM.sk
+Galaxy 4.sk;Galaxy 4.sk
+Ginx eSports TV HD.sk;Ginx eSports TV HD.sk
+Golf Channel HD.sk;Golf Channel HD.sk
+HBO HD.sk;HBO HD.sk
+HBO2 HD.sk;HBO2 HD.sk
+HBO3 HD.sk;HBO3 HD.sk
+Hír TV.sk;Hír TV.sk
+History HD.sk;History HD.sk
+iConcerts HD.sk;iConcerts HD.sk
+ID HD.sk;ID HD.sk
+Jednotka HD.sk;Jednotka HD.sk
+Jim Jam.sk;Jim Jam.sk
+JOJ 24 HD.sk;JOJ 24 HD.sk
+JOJ Cinema HD.sk;JOJ Cinema HD.sk
+JOJ HD.sk;JOJ HD.sk
+JOJ ŠPORT HD.sk;JOJ ŠPORT HD.sk
+JOJ Svet HD.sk;JOJ Svet HD.sk
+Kino Barrandov HD.sk;Kino Barrandov HD.sk
+LaLa TV HD.sk;LaLa TV HD.sk
+Leo TV Gold HD.sk;Leo TV Gold HD.sk
+LEO TV.sk;LEO TV.sk
+Love Nature HD.sk;Love Nature HD.sk
+Lux TV HD.sk;Lux TV HD.sk
+M1 HD.sk;M1 HD.sk
+M2 HD.sk;M2 HD.sk
+M4 sport HD.sk;M4 sport HD.sk
+M5 HD.sk;M5 HD.sk
+MAGIO FITNES.sk;MAGIO FITNES.sk
+Magio Promo.sk;Magio Promo.sk
+MAGIO SVET.sk;MAGIO SVET.sk
+Magyar ATV HD.sk;Magyar ATV HD.sk
+Markíza HD.sk;Markíza HD.sk
+Markíza Klasik HD.sk;Markíza Klasik HD.sk
+Markíza KRIMI HD.sk;Markíza KRIMI HD.sk
+MEN.TV.sk;MEN.TV.sk
+Minimax.sk;Minimax.sk
+Mozi+.sk;Mozi+.sk
+MTV 00s.sk;MTV 00s.sk
+MTV 80s.sk;MTV 80s.sk
+MTV 90s.sk;MTV 90s.sk
+MTV Hits.sk;MTV Hits.sk
+MTV HU.sk;MTV HU.sk
+MTV Live HD.sk;MTV Live HD.sk
+MTV.sk;MTV.sk
+Muzsika TV.sk;Muzsika TV.sk
+NGC HD.sk;NGC HD.sk
+NGC Wild HD.sk;NGC Wild HD.sk
+Nick Jr..sk;Nick Jr..sk
+Nick Toons.sk;Nick Toons.sk
+Nickelodeon HU.sk;Nickelodeon HU.sk
+Nickelodeon.sk;Nickelodeon.sk
+NOE.sk;NOE.sk
+Nova Intl. HD.sk;Nova Intl. HD.sk
+Nova Sport 1 HD.sk;Nova Sport 1 HD.sk
+Nova Sport 2 HD.sk;Nova Sport 2 HD.sk
+Nova Sport 3 HD.sk;Nova Sport 3 HD.sk
+Nova Sport 4 HD.sk;Nova Sport 4 HD.sk
+Nova Sport 5 HD.sk;Nova Sport 5 HD.sk
+Nova Sport 6 HD.sk;Nova Sport 6 HD.sk
+Óčko Black HD.sk;Óčko Black HD.sk
+Óčko Expres HD.sk;Óčko Expres HD.sk
+Óčko HD.sk;Óčko HD.sk
+Óčko Star HD.sk;Óčko Star HD.sk
+ORF 2.sk;ORF 2.sk
+ORF1.sk;ORF1.sk
+Plus HD.sk;Plus HD.sk
+PREMIER SPORT 1 HD.sk;PREMIER SPORT 1 HD.sk
+PREMIER SPORT 2 HD.sk;PREMIER SPORT 2 HD.sk
+PREMIER SPORT 3 HD.sk;PREMIER SPORT 3 HD.sk
+PREMIUM HD.sk;PREMIUM HD.sk
+Prima COOL SK HD.sk;Prima COOL SK HD.sk
+Prima Krimi HD.sk;Prima Krimi HD.sk
+Prima LOVE SK HD.sk;Prima LOVE SK HD.sk
+Prima SK HD.sk;Prima SK HD.sk
+Prime.sk;Prime.sk
+PRO7.sk;PRO7.sk
+Rai 1.sk;Rai 1.sk
+Relax.sk;Relax.sk
+RETRO Music TV.sk;RETRO Music TV.sk
+RTL Gold.sk;RTL Gold.sk
+RTL HÁROM.sk;RTL HÁROM.sk
+RTL HU HD.sk;RTL HU HD.sk
+RTL KETTŐ HD.sk;RTL KETTŐ HD.sk
+RTL.sk;RTL.sk
+Senzi.sk;Senzi.sk
+Šláger Muzika HD.sk;Šláger Muzika HD.sk
+Šláger Originál HD.sk;Šláger Originál HD.sk
+Sláger TV HU.sk;Sláger TV HU.sk
+Sorozat+.sk;Sorozat+.sk
+Spektrum HD.sk;Spektrum HD.sk
+Spektrum Home HD.sk;Spektrum Home HD.sk
+Sport1 HD.sk;Sport1 HD.sk
+Sport2 HD.sk;Sport2 HD.sk
+Stingray Classica HD.sk;Stingray Classica HD.sk
+Stingray Djazz HD.sk;Stingray Djazz HD.sk
+STORY 4.sk;STORY 4.sk
+STRIKE TV HD.sk;STRIKE TV HD.sk
+Super TV2.sk;Super TV2.sk
+Svet Zdravia 1.sk;Svet Zdravia 1.sk
+Svet Zdravia 2.sk;Svet Zdravia 2.sk
+Svet Zdravia 3.sk;Svet Zdravia 3.sk
+TA3 HD.sk;TA3 HD.sk
+Televize Seznam HD.sk;Televize Seznam HD.sk
+TinyTeen HD.sk;TinyTeen HD.sk
+TLC HD.sk;TLC HD.sk
+Travel Channel HD.sk;Travel Channel HD.sk
+Travel XP HD.sk;Travel XP HD.sk
+True Amateurs HD.sk;True Amateurs HD.sk
+TST1 Content.sk;TST1 Content.sk
+TST2 Content.sk;TST2 Content.sk
+TST3 HE.sk;TST3 HE.sk
+TST4 HE.sk;TST4 HE.sk
+TST5 Mcore.sk;TST5 Mcore.sk
+TST6 Mcore.sk;TST6 Mcore.sk
+TST7 Mcore.sk;TST7 Mcore.sk
+Ťuki TV HD.sk;Ťuki TV HD.sk
+TV 1000 Russkoe Kino.sk;TV 1000 Russkoe Kino.sk
+TV Brno 1.sk;TV Brno 1.sk
+TV REBEL.sk;TV REBEL.sk
+TV RiK HD.sk;TV RiK HD.sk
+TV Spark HD.sk;TV Spark HD.sk
+TV2 Séf.sk;TV2 Séf.sk
+TV2.sk;TV2.sk
+TV2Klub.sk;TV2Klub.sk
+TV4.sk;TV4.sk
+TVP Polonia.sk;TVP Polonia.sk
+Viasat 3.sk;Viasat 3.sk
+Viasat 6.sk;Viasat 6.sk
+Viasat Explore HD.sk;Viasat Explore HD.sk
+Viasat History HD.sk;Viasat History HD.sk
+Viasat Nature HD.sk;Viasat Nature HD.sk
+Viasat True Crime HD.sk;Viasat True Crime HD.sk
+Wau HD.sk;Wau HD.sk
+Začíname s Voyo.sk;Začíname s Voyo.sk
+ZDF.sk;ZDF.sk
+```
+
+In total this list contains: 215 channels
+
+---
 
 ## United Kingdom
+
 > [Link](https://www.open-epg.com/files/unitedkingdom.xml.gz)
 
 ```
