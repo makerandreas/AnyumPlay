@@ -21,6 +21,11 @@ A playlist that can be used for watching television shows through supported appl
 
 You can see the source of the Teleguide EPG at [this link](https://github.com/makerandreas/AnyumPlay/blob/main/EPG.md).
 
+## Updates
+
+Updates to this playlist will be released periodically. Check for updates at [this link](https://github.com/makerandreas/AnyumPlay/blob/main/Updates.md).
+Make sure the update date matches the date set on your device. Check the update date in the bottom-left corner of the OTT Navigator app.
+
 ## Have some issues?
 Just drop your questions and/or issues on the "Issues" tab on this GitHub repository.
 
