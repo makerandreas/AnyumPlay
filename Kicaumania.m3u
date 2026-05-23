@@ -618,7 +618,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=l
 
 > TV1 Malaysia
 
-#EXTINF:-1 tvg-id="TV1 HD.my" tvg-name="TV1 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="Entertainment",TV 1 Malaysia
+#EXTINF:-1 tvg-id="TV1 HD.my" tvg-name="TV1 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="Entertainment",TV1 Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://slive.mana2.my/Tv1/index.mpd
 
@@ -626,7 +626,7 @@ https://slive.mana2.my/Tv1/index.mpd
 
 > TV2 Malaysia
 
-#EXTINF:-1 tvg-id="TV2 HD.my" tvg-name="TV2 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Entertainment",TV 2 Malaysia
+#EXTINF:-1 tvg-id="TV2 HD.my" tvg-name="TV2 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Entertainment",TV2 Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://slive.mana2.my/Tv2/index.mpd
 
@@ -650,7 +650,7 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3
 
 > TV6 Malaysia
 
-#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/bK8UH9D.png" group-title="Entertainment",TV 6 Malaysia
+#EXTINF:-1 tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/bK8UH9D.png" group-title="Entertainment",TV6 Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 http://slive.mana2.my/Tv6/index.mpd
 
@@ -2026,7 +2026,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies",HBO Asia
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -2034,7 +2034,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies",HBO Asia
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
@@ -2042,7 +2042,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies",HBO Asia
 #https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mediampd/HBOHD.mpd
 
 =====
