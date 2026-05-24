@@ -2,7 +2,7 @@ Anyum Play
 
 <== Beginning of Live TV ==>
 
-#EXTM3U url-tvg="https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/canada5.xml.gz,https://www.open-epg.com/files/france1.xml.gz,https://www.open-epg.com/files/india.xml.gz,https://www.open-epg.com/files/indonesia.xml.gz,https://www.open-epg.com/files/korea1.xml.gz,https://www.open-epg.com/files/malaysia3.xml.gz,https://www.open-epg.com/files/netherlands.xml.gz,https://www.open-epg.com/files/singapore1.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/unitedkingdom.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz" billed-msg="For personal use only! Last update: May 24, 2026 (check github.com/makerandreas/AnyumPlay for updates)"
+#EXTM3U url-tvg="https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/canada5.xml.gz,https://www.open-epg.com/files/france1.xml.gz,https://www.open-epg.com/files/india.xml.gz,https://www.open-epg.com/files/indonesia.xml.gz,https://www.open-epg.com/files/korea1.xml.gz,https://www.open-epg.com/files/malaysia3.xml.gz,https://www.open-epg.com/files/netherlands.xml.gz,https://www.open-epg.com/files/singapore1.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/taiwan1.xml.gz,https://www.open-epg.com/files/unitedkingdom.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz" billed-msg="For personal use only! Last update: May 24, 2026 (check github.com/makerandreas/AnyumPlay for updates)"
 
 <== National ==>
 
@@ -622,6 +622,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=l
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://slive.mana2.my/Tv1/index.mpd
 
+#EXTINF:-1 tvg-id="TV1 HD.my" tvg-name="TV1 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="Entertainment",TV1 Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv1
+
 =====
 
 > TV2 Malaysia
@@ -629,6 +633,10 @@ https://slive.mana2.my/Tv1/index.mpd
 #EXTINF:-1 tvg-id="TV2 HD.my" tvg-name="TV2 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Entertainment",TV2 Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://slive.mana2.my/Tv2/index.mpd
+
+#EXTINF:-1 tvg-id="TV2 HD.my" tvg-name="TV2 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Entertainment",TV2 Malaysia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv2
 
 =====
 
@@ -1390,7 +1398,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 > Hip Hip Horee!
 
-#EXTINF:-1 tvg-id="HipHipHoree!.id" tvg-name"Hip Hip Horee!.id" tvg-logo="https://mimipipi22.github.io/logo/kids/hiphiphoree.jpg" group-title="Kids",Hip Hip Horee!
+#EXTINF:-1 tvg-id="HipHipHoree!.id" tvg-name"Hip Hip Horee!.id" tvg-logo="https://i.imgur.com/jEFjczI.png" group-title="Kids",Hip Hip Horee!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://ratuvidio.adptv.workers.dev/index.mpd?id=7052
@@ -2138,7 +2146,7 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="Movies",Cinemax Asia
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Movies",Cinemax Asia
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -2146,7 +2154,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="Movies",Cinemax Asia
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Movies",Cinemax Asia
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
@@ -2154,7 +2162,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="Movies",Cinemax Asia
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Movies",Cinemax Asia
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
 
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax.id" group-title="Movies" tvg-logo="https://i.imgur.com/c8crJfA.png",Cinemax Asia
@@ -2242,14 +2250,14 @@ https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
 #EXTINF:-1 tvg-id="Sportstars3.id" tvg-name="Sportstars 3.id" tvg-logo="https://i.postimg.cc/664fTF46/Sportstars-3.png" group-title="Sports",Sportstars 3
-##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+##https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars3.id" tvg-name="Sportstars 3.id" tvg-logo="https://i.postimg.cc/664fTF46/Sportstars-3.png" group-title="Sports",Sportstars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2363,11 +2371,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV.id" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=593102163def4d25985baf7322d8a8dc:4d9def5cf7a8e57d71eea821e21d6580
-https://cdn08jtedge.indihometv.com/dassdvr/130/beib1/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=spotv-1-hd
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV.id" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2388,11 +2393,8 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV 2.id" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV 2
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a47994d99d44eeaba5e015a41dc3085:4aa9da8d82cb4edfc3f558857453d6ed
-https://cdn08jtedge.indihometv.com/dassdvr/130/beib2/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=spotv-2
 
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV 2.id" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2497,6 +2499,30 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+=====
+
+> beIN Sports Malaysia 1
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.my" tvg-name="beIN SPORTS 1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",beIN Sports Malaysia 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-beinsports-1
+
+=====
+
+> beIN Sports Malaysia 2
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2.my" tvg-name="beIN SPORTS 2.my" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",beIN Sports Malaysia 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-beinsports-2
+
+=====
+
+> beIN Sports Malaysia 3
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3.my" tvg-name="beIN SPORTS 3.my" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports",beIN Sports Malaysia 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-beinsports-3
 
 =====
 
@@ -3071,7 +3097,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGo
 
 > Astro Arena 1
 
-#EXTINF:-1 tvg-id="Astro Arena.my" tvg-name="Astro Arena.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Astro Arena 1
+#EXTINF:-1 tvg-id="Astro Arena.my" tvg-name="Astro Arena.my" tvg-logo="https://i.imgur.com/IPK9f6h.png" group-title="Sports",Astro Arena 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena
 
@@ -3079,9 +3105,104 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena
 
 > Astro Arena 2
 
-#EXTINF:-1 tvg-id="Astro Arena 2.my" tvg-name="Astro Arena 2.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Astro Arena 2
+#EXTINF:-1 tvg-id="Astro Arena 2.my" tvg-name="Astro Arena 2.my" tvg-logo="https://i.imgur.com/5b1X3TT.png" group-title="Sports",Astro Arena 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena-2
+
+=====
+
+> Astro Grandstand
+
+#EXTINF:-1 tvg-id="Astro Grandstand.my" tvg-name="Astro Grandstand.my" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6873520deb744_WA4y-480x320.png" group-title="Sports",Astro Grandstand
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-grandstand
+
+=====
+
+> Astro Football
+
+#EXTINF:-1 tvg-id="Astro Football.my" tvg-name="Astro Football.my" tvg-logo="https://i.imgur.com/BZZyglC.png" group-title="Sports",Astro Football
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=supersports-4
+
+=====
+
+> Astro Badminton 1
+
+#EXTINF:-1 tvg-id="Astro Badminton.my" tvg-name="Astro Badminton.my" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6873536f40b50_nnOO-480x320.png" group-title="Sports",Astro Badminton 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton
+
+=====
+
+> Astro Badminton 2
+
+#EXTINF:-1 tvg-id="Astro Badminton 2.my" tvg-name="Astro Badminton 2.my" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6873537eda97e_44L1-480x320.webp" group-title="Sports",Astro Badminton 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-badminton-2
+
+=====
+
+> Astro Sports Plus
+
+#EXTINF:-1 tvg-id="Astro Sports Plus.my" tvg-name="Astro Sports Plus.my" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6873535cc3304_c1LG-480x320.png" group-title="Sports",Astro Sports Plus
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-sports-plus
+
+=====
+
+> Astro Premier League 1
+
+#EXTINF:-1 tvg-id="Astro Premier League.my" tvg-name="Astro Premier League.my" tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="Sports",Astro Premier League 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-pl-1
+
+=====
+
+> Astro Premier League 2
+
+#EXTINF:-1 tvg-id="Astro Premier League 2.my" tvg-name="Astro Premier League 2.my" tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="Sports",Astro Premier League 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-pl-2
+
+=====
+
+> ELTA Sports 1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="愛爾達體育1台.tw" tvg-name="愛爾達體育1台.tw" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="Sports",ELTA Sports 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
+
+#EXTINF:-1 tvg-id="愛爾達體育1台.tw" tvg-name="愛爾達體育1台.tw" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" group-title="Sports",ELTA Sports 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-1
+
+=====
+
+> ELTA Sports 2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="愛爾達體育2台.tw" tvg-name="愛爾達體育2台.tw" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="Sports",ELTA Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-2
+
+#EXTINF:-1 tvg-id="愛爾達體育2台.tw" tvg-name="愛爾達體育2台.tw" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" group-title="Sports",ELTA Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-2
+
+=====
+
+> ELTA Sports 3
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="愛爾達體育3台.tw" tvg-name="愛爾達體育3台.tw" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="Sports",ELTA Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-3
+
+#EXTINF:-1 tvg-id="愛爾達體育3台.tw" tvg-name="愛爾達體育3台.tw" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" group-title="Sports",ELTA Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=elta-sports-3
 
 <== Religion ==>
 
