@@ -2,6 +2,11 @@
 
 This page displays all the new updates that have been released on this playlist over the past few days.
 
+## May 27, 2026
+- Add some new channels
+- Updating multiple servers on multiple channels.
+- Added EPG Teleguide details to 2 channels in "Knowledge" category.
+
 ## May 25, 2026
 - Added some new servers on some channels, especially some servers from neighboring countries.
 - Added several new channels in the "Sports" category.
@@ -15,5 +20,6 @@ This page displays all the new updates that have been released on this playlist 
 - Updating the logos of the new channels.
 
 ## Known Issues
-- As of May 23rd at 10:00 PM WIB, several channels, especially in the "Sports" category, displayed error 429. This issue is being investigated further for a fix.
+- It seems that the 429 error that appeared on some channels in the "Sports" category has disappeared, but still often experience random connection drops. This situation will continue to be monitored.
 - One channel in the "National" category and one channel in the "Sports" category each still display the error "a79.u$c: Response code = 403".
+- EPG information on some channels still displays incorrect program names. Migration to a new Teleguide EPG provider is under consideration.
