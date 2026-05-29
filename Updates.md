@@ -2,6 +2,12 @@
 
 This page displays all the new updates that have been released on this playlist over the past few days.
 
+## May 30, 2026
+As this playlist becomes more stable, it is guaranteed to be ready to operate and share.
+
+- Updated the logos on the 2 channels added in the previous update.
+- Added 2 more new channels in the "Sports" category.
+
 ## May 27, 2026
 - Add some new channels
 - Updating multiple servers on multiple channels.
