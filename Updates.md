@@ -2,6 +2,11 @@
 
 This page displays all the new updates that have been released on this playlist over the past few days.
 
+## June 6, 2026
+- Removed 1 channel in the "Sports" category because it could not connect to its server.
+- Added 2 new channels in the "Sports" category.
+- Added some new servers on some channels.
+
 ## May 30, 2026
 As this playlist becomes more stable, it is guaranteed to be ready to operate and share.
 
