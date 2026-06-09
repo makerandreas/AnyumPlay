@@ -3,13 +3,18 @@
 This page displays all the new updates that have been released on this playlist over the past few days.
 
 ## June 9, 2026
+### Patch 1
 - Removed a number of channels that were not working.
-    - Some of these removed channels have already been prepared with replacement servers and will be added in the next patch.
+    - Some of these removed channels have already been prepared with its replacement servers and will be added in the next patch.
 - Added some new servers on some channels.
 - Added some new channels.
 - Separating several channels in the "Entertainment" category into a new category called "Lifestyle".
 - Reorganize server order placement on multiple channels.
 - Renaming the "National" category to "Indonesia FTA" and the "Regional" category to use the English name.
+
+### Patch 2
+- Re-added previously deleted channels with new server URLs.
+- Updating servers on some channels.
 
 ## June 6, 2026
 ### Patch 1

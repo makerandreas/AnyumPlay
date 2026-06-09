@@ -936,7 +936,7 @@ https://slive.mana2.my/Tv1/index.mpd
 
 #EXTINF:-1 tvg-id="TV1 HD.my" tvg-name="TV1 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="Entertainment",TV1 Malaysia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tv1
 
 =====
 
@@ -948,7 +948,7 @@ https://slive.mana2.my/Tv2/index.mpd
 
 #EXTINF:-1 tvg-id="TV2 HD.my" tvg-name="TV2 HD.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Entertainment",TV2 Malaysia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv2
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tv2
 
 =====
 
@@ -964,7 +964,7 @@ https://restream-bay.vercel.app/?id=352112&e=.m3u8
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Entertainment",TV3 Malaysia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=tv3
 
 =====
 
@@ -1744,13 +1744,6 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="News",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-=====
-
-> BN Channel
-
-#EXTINF:- 1 tvg-name="BN Channel" tvg-logo="https://i.imgur.com/FnXmPCM.jpeg" tvg-id="TV One.id" group-title="News",BN Channel
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-
 <== Kids ==>
 
 > Horee!
@@ -1788,7 +1781,7 @@ https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="Astro Ceria.my" tvg-name="Astro Ceria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Kids",Astro Ceria
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=ceria
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ceria
 
 =====
 
@@ -2825,6 +2818,10 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17139&type=dash
 #https://aspaltvpasti.top/11111/17139.mpd
 
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV.id" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=spotv-1-hd
+
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV.id" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
@@ -2856,6 +2853,10 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=dash
 #https://pidio.becek.workers.dev/17140.mpd
 #https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=17140&type=dash
 #https://aspaltvpasti.top/11111/17140.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV 2.id" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=spotv-2
 
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV 2.id" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2963,78 +2964,27 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 
 =====
 
-> beIN Sports Türkiye 1
+> Elta Sports 1
 
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/Vtk2cGI.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/Vtk2cGI.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-1/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141361
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/1-480x320.png",Elta Sports 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
 
 =====
 
-> beIN Sports Türkiye 2
+> Elta Sports 2
 
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/vUJZSvs.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/vUJZSvs.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-2/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141363
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/2-480x320.png",Elta Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-2
 
 =====
 
-> beIN Sports Türkiye 3
+> Elta Sports 3
 
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/UYSMao3.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/UYSMao3.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-3/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141365
-
-=====
-
-> beIN Sports Türkiye 4
-
-#EXTINF:-1 tvg-name="Bein Sport TR" tvg-logo="https://i.imgur.com/vwAgJNi.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-4/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Bein Sport TR" tvg-logo="https://i.imgur.com/vwAgJNi.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-4/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141367
-
-=====
-
-> beIN Sports Türkiye 5
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/2Rha5aY.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-5/playlist.m3u8
-
-#EXTINF:-1 tvg-name="beIN Sport TR" tvg-logo="https://i.imgur.com/2Rha5aY.png" tvg-id="Bein Sport.tr" group-title="Sports",beIN Sports Türkiye 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://www.selcuksportshd.is
-#https://dga1op10s1u3leo.6c2c54919ddfa1.click/live/sbeinsports-5/playlist.m3u8
-http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/141368
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/3-480x320.png",Elta Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-3
 
 =====
 
@@ -3550,6 +3500,110 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_nba/default/index.mpd
 
+=====
+
+> Astro Premier League 1
+
+#EXTINF:-1 tvg-id="Astro Premier League.my" tvg-name="Astro Premier League.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",Astro Premier League 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-pl-1
+
+=====
+
+> Astro Premier League 2
+
+#EXTINF:-1 tvg-id="Astro Premier League 2.my" tvg-name="Astro Premier League 2.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",Astro Premier League 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-pl-2
+
+=====
+
+> Astro Grandstand
+
+#EXTINF:-1 tvg-id="Astro Grandstand.my" tvg-name="Astro Grandstand.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Grandstand
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-grandstand
+
+=====
+
+> Astro Football
+
+#EXTINF:-1 tvg-id="Astro Football.my" tvg-name="Astro Football.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Football
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=supersports-4
+
+=====
+
+> beIN Sports Malaysia 1
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.my" tvg-name="beIN SPORTS 1.my" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",beIN Sports Malaysia 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-beinsports-1
+
+=====
+
+> beIN Sports Malaysia 2
+
+#EXTINF:-1 tvg-id="beIN SPORTS 2.my" tvg-name="beIN SPORTS 2.my" tvg-logo="https://i.imgur.com/vUJZSvs.png" group-title="Sports",beIN Sports Malaysia 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-beinsports-2
+
+=====
+
+> beIN Sports Malaysia 3
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3.my" tvg-name="beIN SPORTS 3.my" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports",beIN Sports Malaysia 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-beinsports-3
+
+=====
+
+> Astro Arena 1
+
+#EXTINF:-1 tvg-id="Astro Arena.my" tvg-name="Astro Arena.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",Astro Arena 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=arena
+
+=====
+
+> Astro Arena 2
+
+#EXTINF:-1 tvg-id="Astro Arena 2.my" tvg-name="Astro Arena 2.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",Astro Arena 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=arena-2
+
+=====
+
+> Astro Badminton 1
+
+#EXTINF:-1 tvg-id="Astro Badminton.my" tvg-name="Astro Badminton.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png",Astro Badminton 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-badminton
+
+=====
+
+> Astro Badminton 2
+
+#EXTINF:-1 tvg-id="Astro Badminton 2.my" tvg-name="Astro Badminton 2.my" group-title="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6873537eda97e_44L1-480x320.webp",Astro Badminton 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-badminton-2
+
+=====
+
+> Astro Sports Plus
+
+#EXTINF:-1 tvg-id="Astro Sports Plus.my" tvg-name="Astro Sports Plus.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png",Astro Sports Plus
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-sports-plus
+
+=====
+
+> RTM Sports HD
+
+#EXTINF:-1 group-title="RAKYAT TV" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg", RTM SPORTS HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
+
 <== Religion ==>
 
 > Muslim TV (fka MNC Muslim)
@@ -3929,7 +3983,7 @@ http://103.58.160.157:8278/720-ARIRANG/playlist.m3u8
 
 > Magna
 
-#EXTINF:- 1 tvg-name="Magna Channel" tvg-logo="https://i.imgur.com/veNM09a.jpeg" tvg-id="TV One.id" group-title="Knowledge",Magna
+#EXTINF:- 1 tvg-name="Magna Channel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" tvg-id="MagnaChannel.id" group-title="Knowledge",Magna
 https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=http://www.dens.tv/
 
 <== End of Live TV ==>
