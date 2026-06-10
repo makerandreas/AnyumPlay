@@ -2,6 +2,10 @@
 
 This page displays all the new updates that have been released on this playlist over the past few days.
 
+## June 10, 2026
+- Fixed group and channel naming on one of the channel entries.
+- Updated EPG and `tvg-logo` information on some channels.
+
 ## June 9, 2026
 ### Patch 1
 - Removed a number of channels that were not working.

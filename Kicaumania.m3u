@@ -2,7 +2,7 @@ Anyum Play
 
 <== Beginning of Live TV ==>
 
-#EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml.gz,https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/canada5.xml.gz,https://www.open-epg.com/files/france1.xml.gz,https://www.open-epg.com/files/india.xml.gz,https://www.open-epg.com/files/indonesia.xml.gz,https://www.open-epg.com/files/korea1.xml.gz,https://www.open-epg.com/files/malaysia3.xml.gz,https://www.open-epg.com/files/netherlands.xml.gz,https://www.open-epg.com/files/singapore1.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/taiwan1.xml.gz,https://www.open-epg.com/files/unitedkingdom.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz" billed-msg="For personal use only! Last update: June 9, 2026 (check github.com/makerandreas/AnyumPlay for updates)"
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml.gz,https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/canada5.xml.gz,https://www.open-epg.com/files/france1.xml.gz,https://www.open-epg.com/files/india.xml.gz,https://www.open-epg.com/files/indonesia.xml.gz,https://www.open-epg.com/files/korea1.xml.gz,https://www.open-epg.com/files/malaysia3.xml.gz,https://www.open-epg.com/files/netherlands.xml.gz,https://www.open-epg.com/files/singapore1.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/taiwan1.xml.gz,https://www.open-epg.com/files/unitedkingdom.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz" billed-msg="For personal use only! Last update: June 10, 2026 (check github.com/makerandreas/AnyumPlay for updates)"
 
 <== Indonesia FTA ==>
 
@@ -2966,7 +2966,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 
 > Elta Sports 1
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/1-480x320.png",Elta Sports 1
+#EXTINF:-1 tvg-id="愛爾達體育1台.tw" tvg-name="愛爾達體育1台.tw" group-title="Sports" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png",Elta Sports 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
 
@@ -2974,7 +2974,7 @@ https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
 
 > Elta Sports 2
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/2-480x320.png",Elta Sports 2
+#EXTINF:-1 tvg-id="愛爾達體育2台.tw" tvg-name="愛爾達體育2台.tw" group-title="Sports" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png",Elta Sports 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-2
 
@@ -2982,7 +2982,7 @@ https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-2
 
 > Elta Sports 3
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/3-480x320.png",Elta Sports 3
+#EXTINF:-1 tvg-id="愛爾達體育3台.tw" tvg-name="愛爾達體育3台.tw" group-title="Sports" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png",Elta Sports 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-3
 
@@ -3528,7 +3528,7 @@ https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-grandstand
 
 > Astro Football
 
-#EXTINF:-1 tvg-id="Astro Football.my" tvg-name="Astro Football.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Football
+#EXTINF:-1 tvg-id="Astro Football.my" tvg-name="Astro Football.my" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png",Astro Football
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=supersports-4
 
@@ -3600,7 +3600,7 @@ https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-sports-plus
 
 > RTM Sports HD
 
-#EXTINF:-1 group-title="RAKYAT TV" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg", RTM SPORTS HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5ca85501a4694_01x0-480x320.jpg",RTM Sports HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
 
