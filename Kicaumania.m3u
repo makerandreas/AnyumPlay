@@ -2,7 +2,7 @@ Anyum Play
 
 <== Beginning of Live TV ==>
 
-#EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml.gz,https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/canada5.xml.gz,https://www.open-epg.com/files/france1.xml.gz,https://www.open-epg.com/files/india.xml.gz,https://www.open-epg.com/files/indonesia.xml.gz,https://www.open-epg.com/files/korea1.xml.gz,https://www.open-epg.com/files/malaysia3.xml.gz,https://www.open-epg.com/files/netherlands.xml.gz,https://www.open-epg.com/files/singapore1.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/taiwan1.xml.gz,https://www.open-epg.com/files/unitedkingdom.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz" billed-msg="For personal use only! Last update: June 10, 2026 (check github.com/makerandreas/AnyumPlay for updates)"
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina.xml.gz,https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/brazil1.xml.gz,https://www.open-epg.com/files/canada5.xml.gz,https://www.open-epg.com/files/france1.xml.gz,https://www.open-epg.com/files/india.xml.gz,https://www.open-epg.com/files/indonesia.xml.gz,https://www.open-epg.com/files/korea1.xml.gz,https://www.open-epg.com/files/malaysia3.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/netherlands.xml.gz,https://www.open-epg.com/files/singapore1.xml.gz,https://www.open-epg.com/files/slovakia1.xml.gz,https://www.open-epg.com/files/taiwan1.xml.gz,https://www.open-epg.com/files/thailand1.xml.gz,https://www.open-epg.com/files/unitedkingdom.xml.gz,https://www.open-epg.com/files/unitedstates10.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz" billed-msg="CELEBRATE THE WORLD FOOTBALL PARTY! | For personal use only! Last update: June 12, 2026 (check github.com/makerandreas/AnyumPlay for updates)"
 
 <== Indonesia FTA ==>
 
@@ -979,12 +979,7 @@ http://slive.mana2.my/Tv6/index.mpd
 > TV9 Malaysia
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="Entertainment",TV9 Malaysia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV9
+https://raw.githubusercontent.com/MIFNtechnology/StreamLiveTv/refs/heads/main/channels/tv9/index.m3u8
 
 =====
 
@@ -2990,7 +2985,7 @@ https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-3
 
 > beIN Sports Thailand 1
 
-#EXTINF:-1 tvg-name="beIN Sport TH" tvg-logo="https://i.imgur.com/Vtk2cGI.png" tvg-id="Bein Sport.th" group-title="Sports",beIN Sports Thailand 1
+#EXTINF:-1 tvg-id="beIN SPORTS 1.th" tvg-name="beIN SPORTS 1.th" tvg-logo="https://i.imgur.com/Vtk2cGI.png" tvg-id="Bein Sport.th" group-title="Sports",beIN Sports Thailand 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 
@@ -2998,7 +2993,7 @@ https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 
 > beIN Sports Thailand 2
 
-#EXTINF:-1 tvg-name="beIN Sport TH" tvg-logo="https://i.imgur.com/vUJZSvs.png" tvg-id="Bein Sport.th" group-title="Sports",beIN Sports Thailand 2
+#EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-name="beIN SPORTS 2.th" tvg-logo="https://i.imgur.com/vUJZSvs.png" tvg-id="Bein Sport.th" group-title="Sports",beIN Sports Thailand 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
 https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
@@ -3007,7 +3002,7 @@ https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8?_t=1773179685053
 
 > beIN Sports Thailand 3
 
-#EXTINF:-1 tvg-name="beIN Sport TH" tvg-logo="https://i.imgur.com/UYSMao3.png" tvg-id="Bein Sport.th" group-title="Sports",beIN Sports Thailand 3
+#EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-name="beIN SPORTS 3.th" tvg-logo="https://i.imgur.com/UYSMao3.png" tvg-id="Bein Sport.th" group-title="Sports",beIN Sports Thailand 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช&#3656;น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
 
@@ -3036,7 +3031,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj
 
 > Fox Sports USA 1
 
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1 HD.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports USA 1
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports USA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
@@ -3052,7 +3047,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 
 > Fox Sports USA 2
 
-#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-name="Fox Sports 2 HD.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports USA 2
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="Fox Sports 2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Sports",Fox Sports USA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
@@ -3063,7 +3058,7 @@ https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cd
 
 > Fox Sports Mexico 1
 
-#EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports", Fox Sports Mexico 1
+#EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-name="FOX SPORTS.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Sports", Fox Sports Mexico 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3076,7 +3071,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/
 
 > Fox Sports Mexico 2
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2.mx" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Fox_Sports_2_MX.svg" group-title="Sports",Fox Sports Mexico 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2.mx" tvg-name="FOX SPORTS 2.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Fox_Sports_2_MX.svg" group-title="Sports",Fox Sports Mexico 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3088,7 +3083,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/
 
 > Fox Sports Mexico 3
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3.mx" tvg-name="" tvg-logo="https://i.imgur.com/svwD4Tx.png" group-title="Sports",Fox Sports Mexico 3
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx" tvg-name="FOX SPORTS 3.mx" tvg-logo="https://i.imgur.com/svwD4Tx.png" group-title="Sports",Fox Sports Mexico 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3100,7 +3095,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/
 
 > Fox Sports Mexico Premium
 
-#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="" tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="Sports",Fox Sports Mexico Premium
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-name="FOX SPORTS PREMIUM.mx" tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="Sports",Fox Sports Mexico Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3388,16 +3383,21 @@ https://bosstv.asia/yabostv/9183.mpd
 
 =====
 
-> Voli TV 2
+> DSports
 
-#EXTINF:-1 tvg-id="VoliTV2.id" tvg-name="Voli TV 2.id" tvg-logo="https://i.imgur.com/SclaeuC.png" group-title="Sports",Voli TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21178&type=drm
-https://ratuvidio.adptv.workers.dev/index.mpd?id=21178&type=dash
-#https://pidio.becek.workers.dev/21178.mpd
+#EXTINF:-1 tvg-id="DSports.uy" tvg-name="DSports.uy" group-title="Sports" tvg-logo="https://i.imgur.com/2PoEm1x.png",DSports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+=====
+
+> DSports+
+
+#EXTINF:-1 tvg-id="DSports.uy" tvg-name="DSports.uy" group-title="Sports" tvg-logo="https://i.imgur.com/2PoEm1x.png",DSports+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 
 =====
 
@@ -3604,6 +3604,51 @@ https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=astro-sports-plus
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
 
+=====
+
+> SporTV Brasil 1
+
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV.br" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Sports",SporTV Brasil 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+=====
+
+> SporTV Brasil 2
+
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV2.br" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="Sports",SporTV Brasil 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+
+=====
+
+> SporTV Brasil 3
+
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV3.br" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="Sports",SporTV Brasil 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+=====
+
+> TUDN
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports",TUDN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
+
 <== Religion ==>
 
 > Muslim TV (fka MNC Muslim)
@@ -3615,6 +3660,13 @@ https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
 #EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV.id" tvg-logo="https://i.imgur.com/hTFdMqu.png" group-title="Religion",Muslim TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+
+#EXTINF:-1 tvg-id="MuslimTV.id" tvg-name="Muslim TV.id" tvg-logo="https://i.imgur.com/hTFdMqu.png" group-title="Religion",Muslim TV
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+https://legacy-global-cdn.visionplus.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 
 =====
 

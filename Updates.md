@@ -2,6 +2,12 @@
 
 This page displays all the new updates that have been released on this playlist over the past few days.
 
+## June 12, 2026
+**CELEBRATE THE WORLD FOOTBALL PARTY!** This update adds several new channels in the "Sports" category to welcome the party.
+Additionally, this update also brings some improvements related to the Teleguide EPG.
+
+Go ahead and enjoy the party!
+
 ## June 10, 2026
 - Fixed group and channel naming on one of the channel entries.
 - Updated EPG and `tvg-logo` information on some channels.
