@@ -1,12 +1,23 @@
 # Playlist Update
 
-This page displays all the new updates that have been released on this playlist over the past few days.
-
+This page displays all the new updates and known issues that have been released on this playlist over the past few days.
+---
+## Known Issues
+- Some channels are experiencing Error 400. As a workaround, some of them have set up temporary servers to try.
+    - Please keep in mind that these servers are still in trial, and may not play smoothly. 
+- EPG information on some channels still displays incorrect program names. Migration to a new Teleguide EPG provider is under consideration.
+---
 ## June 12, 2026
+### Patch 1
 **CELEBRATE THE WORLD FOOTBALL PARTY!** This update adds several new channels in the "Sports" category to welcome the party.
 Additionally, this update also brings some improvements related to the Teleguide EPG.
 
 Go ahead and enjoy the party!
+
+### Patch 2
+- Added some new servers on some channels.
+    - Some of them are trial servers that can be used as alternative channels that are affected by Error 400 (see Known Issues).
+- Added some new channels.
 
 ## June 10, 2026
 - Fixed group and channel naming on one of the channel entries.
@@ -58,8 +69,3 @@ As this playlist becomes more stable, it is guaranteed to be ready to operate an
 
 ### Patch 2
 - Updating the logos of the new channels.
-
-## Known Issues
-- It seems that the 429 error that appeared on some channels in the "Sports" category has disappeared, but still often experience random connection drops. This situation will continue to be monitored.
-- One channel in the "National" category and one channel in the "Sports" category each still display the error "a79.u$c: Response code = 403".
-- EPG information on some channels still displays incorrect program names. Migration to a new Teleguide EPG provider is under consideration.
